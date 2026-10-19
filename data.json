@@ -1837,5 +1837,462 @@
     "cover": "covers/s096.jpg",
     "tab": "作品集简历合集",
     "category": "媒体社区"
+  },
+  {
+    "id": "s097",
+    "title": "Furquan Ahmad · AI-native 产品设计师简历（Scale AI / Meta）",
+    "url": "https://www.furquan101.com/resume.pdf",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "AI产品设计简历",
+    "verified": "已核",
+    "why": "开头一句「AI-native product designer who ships」定位；把「前线派驻设计师」「设计师亲自提 PR」写成经历亮点，每条项目都配任务完成率 / 工单下降等数字，可直接借鉴 AI 产品简历的句式。",
+    "tags": [
+      "简历写法",
+      "定位句",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s097.jpg"
+  },
+  {
+    "id": "s098",
+    "title": "Gina Lee · AI 产品设计师简历（Liner / LOVO）",
+    "url": "https://www.ginalee.me/resume.pdf",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "AI产品设计简历",
+    "verified": "已核",
+    "why": "5 年 AI 产品设计、每条经历都是「设计了什么 AI 功能 → 留存/付费/转化提升多少」；还写了 MCP 统一入口 Liner Actions 的等待名单数，示范怎么把 AI 功能写成业务结果。",
+    "tags": [
+      "简历写法",
+      "指标叙事",
+      "Agent工作流"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s098.jpg"
+  },
+  {
+    "id": "s099",
+    "title": "Yuchen Zhang · 创始设计师简历（AI 产品 0→1）",
+    "url": "https://yuchen.design/resume",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "AI产品设计简历",
+    "verified": "已核",
+    "why": "总结句把「让人信任并采取行动的 AI（可溯源、人在回路、可审计）」和「AI 人设怎么说话」并列成两条能力，技能栏单列 AI & prototyping（Claude Code、Lovable、Prompt/Voice design），对「设计 AI 人格」方向很有参考价值。",
+    "tags": [
+      "简历写法",
+      "定位句",
+      "信任与失败态"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s099.jpg"
+  },
+  {
+    "id": "s100",
+    "title": "Marco van Hylckama Vlieg · Staff 产品设计师 & AI-native 设计工程师简历",
+    "url": "https://www.ai-created.com/resume",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "设计工程师简历",
+    "verified": "已核",
+    "why": "网页版简历：用一句话把「把模糊问题变成验证过的体验和生产软件」作为主张，经历里写「用 Next.js 做 CMS 原型代替静态 Figma 交付」+「购物车改版年增收 2500 万美元」，示范设计+代码+结果三段式。",
+    "tags": [
+      "简历写法",
+      "可运行",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s100.jpg"
+  },
+  {
+    "id": "s101",
+    "title": "Carlos Montoya · 首席产品设计师 & AI 工程师简历（Dropbox）",
+    "url": "https://losmontoya.com/carlos-montoya-resume.pdf",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "设计工程师简历",
+    "verified": "已核",
+    "why": "简历顶部单列「EVIDENCE 01–05」证据区：两天做出 SwiftUI 原型让高层上手判断、四套编码版引导收敛到「系统提议，人来批准」的信任模型——把人机边界写进简历的好样本。",
+    "tags": [
+      "简历写法",
+      "信任与失败态",
+      "可运行"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s101.jpg"
+  },
+  {
+    "id": "s102",
+    "title": "James AI · James Lane 的 AI 驱动「活简历」作品集",
+    "url": "https://jamesai.space/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "简历",
+    "category": "设计工程师简历",
+    "verified": "已核",
+    "why": "把简历做成可对话的 AI 站点，并专门给 AI 爬虫准备 llms.txt / 机器可读版简历；作品强调把证据、取舍和限制直接显示在产品里，适合参考「简历本身就是 AI 产品 Demo」的做法。",
+    "tags": [
+      "可运行",
+      "Agent工作流",
+      "作品集可信度"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s102.jpg"
+  },
+  {
+    "id": "s103",
+    "title": "Siân King · Algolia Agent Studio 重设计（预览优先的 Agent 构建器）",
+    "url": "https://www.siankingdesign.com/agent-studio",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "开篇写清假设「让 Agent 行为可见、可控、可快速迭代就能降低感知风险」，把代码优先的配置流改成预览优先构建器，结果写生产客户 13→24（+85%）并坦白多因素影响，是 AI 工具类案例的标准骨架。",
+    "tags": [
+      "Agent工作流",
+      "案例骨架",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s103.jpg"
+  },
+  {
+    "id": "s104",
+    "title": "Irina Nalivaiko · WPP Creative Studio AI Agent Builder",
+    "url": "https://www.irinanalivaiko.com/creative-studio",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "把「可复用 prompt 配置」重做成「构建—评估—运行多步 AI 工作流」的系统，6 个月 4.8 万 MAU、5 万个 Agent；还写了组织影响（多个重复构建器被并入、成为公司 Agent 构建的 UX 标准）。",
+    "tags": [
+      "Agent工作流",
+      "指标叙事",
+      "设计系统"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s104.jpg"
+  },
+  {
+    "id": "s105",
+    "title": "Hannah Yu · ASAPP 生成式 Agent 工作流构建器",
+    "url": "https://hyuxdesign.com/work/workflow-builder/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "前后对比很直观：研究员用的六边形节点+Python 标识 → Talk/Do/End 三类节点+人话标签；设计师用 Claude Code 在生产分支写了约 3200 行代码，上线美国航空 20% 流量 A/B——「设计师直接交付代码」的完整证据链。",
+    "tags": [
+      "Agent工作流",
+      "可运行",
+      "案例骨架"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s105.jpg"
+  },
+  {
+    "id": "s106",
+    "title": "Akriti Singh · Feed It! 六 Agent 营销平台的透明层设计",
+    "url": "https://akritisingh.com/case-studies/feed-it",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "把「六个 Agent 在花真金白银、用户却没有共同心智模型」作为问题，拆成五层透明设计（Agent 导航、叙事动态、置信度、为什么这样做、人在回路控制），用「恰当干预率 73% vs 41%」衡量校准信任，指标选得很 AI。",
+    "tags": [
+      "信任与失败态",
+      "Agent工作流",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s106.jpg"
+  },
+  {
+    "id": "s107",
+    "title": "Leslie Lin · Google NotebookLM 产品设计案例（定向重生成 / AI 标签 / AI 辅助设计系统）",
+    "url": "https://leslieslin.com/NLM",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "三个已上线功能都围绕「AI 自动化 vs 用户控制」：幻灯片单页定向重生成两周 450 万页被编辑；AI 标签与手动标签双流程；用 Claude 生成暗色 token 后人工审可访问性，一周交付 300+ 组件——AI 产品设计师的高质量样本。",
+    "tags": [
+      "信任与失败态",
+      "设计系统",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s107.jpg"
+  },
+  {
+    "id": "s108",
+    "title": "Rachna Unadkat · Lattice AI 绩效评估写作（高风险场景的 AI 介入）",
+    "url": "https://rachna.design/works/ai-led-reviews",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "先和工程/HR 定「AI 该出现在哪、不该出现在哪」的边界，再探索三档介入强度，并明确站队「嵌入式 AI 优于对话优先 Agent」，单列 Tradeoffs 区写取舍理由；数据不足时引导补充上下文防幻觉——说清人机边界的范本。",
+    "tags": [
+      "信任与失败态",
+      "互动架构",
+      "案例骨架"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s108.jpg"
+  },
+  {
+    "id": "s109",
+    "title": "Meng Xie · AI-native 设计作品集（Meta 产品设计师）",
+    "url": "https://www.mengxie.me/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "不是按项目而是按「5 个月 AI 原生设计旅程」组织：17 个 AI 项目、8 个工具、6 个 Claude Skills；提出「设计保真度光谱：静态→交互→行为→生产」，并在 WhatsApp 安卓生产代码里做 5 套 AI 订阅升级方向，是写 AI 工作方式的好参照。",
+    "tags": [
+      "可运行",
+      "Agent工作流",
+      "定位句"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s109.jpg"
+  },
+  {
+    "id": "s110",
+    "title": "Jingyi Zhu · 复杂 AI 产品设计师作品集",
+    "url": "https://www.jingyiz.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "首页定位句「Automation is the easy part. Keeping a human in charge is the design.」一句话把 AI 产品设计师的价值说清；作品覆盖 AI 研究工作台、审批型 Agent、多 Agent 营销工作流，适合借鉴定位写法。",
+    "tags": [
+      "定位句",
+      "信任与失败态",
+      "Agent工作流"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s110.jpg"
+  },
+  {
+    "id": "s111",
+    "title": "Simon Heikkila · AI-native UI/UX 设计师 & 设计工程师作品集",
+    "url": "https://simonheikkila.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "verified": "已核",
+    "why": "首页直接放可点的临床工作台原型并用三个标注点讲设计决策；每个作品写「我的角色 + 现在状态（已被采用/在客户实时流程里）」，诚实区分自己做的原型与对方开发的生产版。",
+    "tags": [
+      "可运行",
+      "作品集可信度",
+      "定位句"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s111.jpg"
+  },
+  {
+    "id": "s112",
+    "title": "赖李标 · AI 项目汇总（UI 设计师 → AI 工具全栈构建者）",
+    "url": "https://muqiai.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "verified": "已核",
+    "why": "国内设计师转型样本：两年 17 个独立设计+开发的 AI 项目（多模型创作平台、AI 审核、会议助手、Figma 插件），每个项目一行写「把什么变成什么 + 数字」，中文 AI 简历/作品集句式可直接参考。",
+    "tags": [
+      "中文",
+      "设计转产品",
+      "指标叙事"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s112.jpg"
+  },
+  {
+    "id": "s113",
+    "title": "Conor Liu · Living Interface（AI 原生个人站）",
+    "url": "https://www.conorliu.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "verified": "已核",
+    "why": "中文 AI 原生个人站：首页即 AI 分身对话入口，把 Agent、Workflow、RAG、MCP 能力做成可交互模块并公开进化日志与源码，适合看「个人站本身就是 AI 产品」的信息架构。",
+    "tags": [
+      "中文",
+      "Agent工作流",
+      "可运行"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s113.jpg"
+  },
+  {
+    "id": "s114",
+    "title": "左胤（沙丁鱼）· UX 设计师作品集网站 + 作品集 AI Agent 导览",
+    "url": "https://zuoyindesign.cn/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "前 Soul 资深 UX 的中文作品集站：案例标题直接写成 AI 体验命题（「AI 动态画像的可信与可控」「让 AI 适时介入创作而不打断原有发布路径」），并自建作品集 AI 导览 Agent；站酷同名 2026 作品集帖说明了转向 AI Coding 的思路。",
+    "tags": [
+      "中文",
+      "信任与失败态",
+      "Agent工作流"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s114.jpg"
+  },
+  {
+    "id": "s115",
+    "title": "Product Design Portfolio: What Managers Actually Evaluate（YouTube）",
+    "url": "https://www.youtube.com/watch?v=Qb0ZrcF8edc",
+    "platform": "YouTube",
+    "track": "产品设计",
+    "type": "指南文章",
+    "tab": "作品集",
+    "category": "作品集指南",
+    "verified": "已核",
+    "why": "作品集面试官视角：只讲 2 个项目（第一个最强最相关、第二个补广度），结构「背景→问题→探索→设计→影响」；明确说 2026 年评审会问「有没有用 AI」，并给出面试后追问清单。",
+    "tags": [
+      "招聘方视角",
+      "案例骨架",
+      "作品集可信度"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s115.jpg"
+  },
+  {
+    "id": "s116",
+    "title": "Figma 博客：Why Demand for Designers Is on the Rise（2026 招聘调研）",
+    "url": "https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise/",
+    "platform": "文章",
+    "track": "通用",
+    "type": "招聘信号",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
+    "verified": "已核",
+    "why": "Figma 调研：82% 的负责人说设计师需求持平或上升；73% 认为越来越需要会用 AI 工具，79% 认为越来越需要会「设计 AI 产品」，并偏好资深人才——AI 产品设计经验是明确的加分项。",
+    "tags": [
+      "招聘方视角",
+      "Agent工作流"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s116.jpg"
+  },
+  {
+    "id": "s117",
+    "title": "What 36 Staff Product Design Job Descriptions Actually Say About AI（Substack）",
+    "url": "https://lenakul.substack.com/p/what-36-staff-product-design-job",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "招聘信号",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
+    "verified": "已核",
+    "why": "拆了 36 份 Staff 级产品设计 JD：86% 提到 AI、47% 要求在工作流中使用 AI，并区分「真需要」和「只是写着好听」——可用来对照自己的简历关键词。",
+    "tags": [
+      "招聘方视角",
+      "简历写法"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s117.jpg"
+  },
+  {
+    "id": "s118",
+    "title": "Storyline：What hiring teams look for（2026 招聘方调研）",
+    "url": "https://storyline.design/hiring-insights/",
+    "platform": "文章",
+    "track": "通用",
+    "type": "招聘信号",
+    "tab": "招聘信息",
+    "category": "招聘信号",
+    "verified": "已核",
+    "why": "实时调研结果：70% 说作品集强烈影响是否给首面、63% 在 3 分钟内决定是否继续看、69% 说 AI 改变了评估标准；建议案例里写清「AI 帮了哪里、哪里是你的判断」。",
+    "tags": [
+      "招聘方视角",
+      "作品集可信度"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s118.jpg"
+  },
+  {
+    "id": "s119",
+    "title": "字节UX设计师转AI产品经理：你以为要从零开始，其实你已经会了70%（人人都是产品经理）",
+    "url": "https://www.woshipm.com/zhichang/6357771.html",
+    "platform": "文章",
+    "track": "产品设计",
+    "type": "观点",
+    "tab": "招聘信息",
+    "category": "观点",
+    "verified": "已核",
+    "why": "把 UX 能力拆成「可平移（心智模型→预期管理、信息架构→RAG 元数据、设计系统→生成式 UI）/需翻译（旅程图→人机协同流程）/须补课（模型边界、技术架构、AI 商业化）」，正好可用来改写设计转 AI 产品的简历表述。",
+    "tags": [
+      "中文",
+      "设计转产品",
+      "信任与失败态"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s119.jpg"
   }
 ]

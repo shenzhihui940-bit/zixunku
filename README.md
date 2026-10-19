@@ -8,8 +8,6 @@
 
 仓库：https://github.com/shenzhihui940-bit/zixunku
 
-~~旧地址 https://zhu482.github.io/zixunku/（仓库 https://github.com/zhu482/zixunku）已停用：该仓库已设为 private，请勿再使用。~~
-
 个人标记 / 笔记本只存在每位访客自己的浏览器 localStorage，不会跨设备或跨人同步。
 
 ## 打开方式（重要）

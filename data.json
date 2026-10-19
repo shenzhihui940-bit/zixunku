@@ -991,8 +991,8 @@
     "platform": "Behance",
     "track": "AI设计",
     "type": "作品集示例",
-    "verified": "未核链",
-    "why": "（据搜索摘要）GTM 一体工作区、sole designer、Vercel 原型；WebFetch 被拦，待浏览器再核",
+    "verified": "已核",
+    "why": "AI 驱动的 B2B/GTM SaaS，把产品文档、受众发现、投放执行收进同一工作区；Ahmed Adel（InVitro Capital sole designer，2025-04–2026-02）覆盖 research→IA→UI 与 Vercel 原型，页上有笔记本/平板仪表盘 mockup。",
     "tags": [
       "可运行"
     ],
@@ -2315,5 +2315,23 @@
     "added": "2026-10-19",
     "source_note": "2026-10-19-每日作品集收集.md",
     "cover": "covers/s120.jpg"
+  },
+  {
+    "id": "s121",
+    "title": "Muse AI | Writing Companion UX/UI Case Study",
+    "url": "https://www.behance.net/gallery/243841967/Muse-AI-Writing-Companion-UXUI-Case-Study",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "冷静科技向的 AI 写作陪伴案，看极简界面、轻提示与设计系统如何支撑「反思/专注」类 AI 产品（浏览器已核）。",
+    "tags": [
+      "互动架构"
+    ],
+    "added": "2026-10-19",
+    "source_note": "2026-10-19-每日作品集收集.md",
+    "cover": "covers/s121.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
   }
 ]

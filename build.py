@@ -23,7 +23,7 @@ CATEGORIES = {
 }
 
 ENUMS = {
-    "platform": {"个人站", "Behance", "Dribbble", "YouTube", "X", "文章", "目录站", "指南"},
+    "platform": {"个人站", "Behance", "Dribbble", "YouTube", "X", "文章", "目录站", "指南", "站酷"},
     "track": {"设计工程师", "产品设计", "AI设计", "通用"},
     "type": {"作品集示例", "指南文章", "招聘信号", "观点", "目录"},
     "verified": {"已核", "未核链"},

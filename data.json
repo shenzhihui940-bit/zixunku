@@ -1009,13 +1009,13 @@
     "platform": "Behance",
     "track": "AI设计",
     "type": "作品集示例",
-    "verified": "未核链",
-    "why": "（据搜索摘要）多角色、Aura AI、200+ screens、NDA 脱敏呈现；待浏览器再核",
+    "verified": "已核",
+    "why": "从 0→1 的 AI 财富管理平台：4 类角色、200+ 屏与推荐引擎 Aura AI 设计系统；把 9+ 资产放进同一工作台，适合学复杂 B 端 AI 工作台的信息架构与交付边界（部分界面 NDA）",
     "tags": [
       "Agent工作流"
     ],
     "added": "2026-10-16",
-    "source_note": "2026-10-16-设计向作品集扩样.md",
+    "source_note": "2026-10-16-设计向作品集扩样.md；2026-10-20-每日作品集收集.md",
     "cover": "covers/s054.jpg",
     "tab": "作品集",
     "category": "AI设计作品集"
@@ -2793,5 +2793,85 @@
     "added": "2026-10-20",
     "source_note": "2026-10-20-每日作品集收集.md",
     "cover": "covers/s144.jpg"
+  },
+  {
+    "id": "s145",
+    "title": "Quantix LLM Application · UI/UX Case Study（Ofspace）",
+    "url": "https://www.behance.net/gallery/220990039/Quantix-LLM-Application-A-UIUX-Case-Study",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "LLM 应用从 MVP 到生产的监控/调试/性能看板案例：可定制仪表盘 + CI/CD 接入 + 设计系统，适合看「AI 开发者工具」类产品怎么讲运维与可信",
+    "tags": [
+      "LLM运维",
+      "开发者工具",
+      "设计系统"
+    ],
+    "added": "2026-10-20",
+    "source_note": "2026-10-20-每日作品集收集.md",
+    "cover": "covers/s145.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s146",
+    "title": "NeuroNest · LLM AI SaaS 指挥中心仪表盘",
+    "url": "https://www.behance.net/gallery/230621009/NeuroNest-Startup-LLM-AI-SaaS-Tool-Dashboard-Design",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "深色模块化「AI 指挥中心」：快速启动 Agent、实时对话侧栏、prompt/agent/flow 用量数据块——适合参考 Agent 工作台的信息分区与视觉降噪",
+    "tags": [
+      "Agent工作台",
+      "仪表盘",
+      "深色UI"
+    ],
+    "added": "2026-10-20",
+    "source_note": "2026-10-20-每日作品集收集.md",
+    "cover": "covers/s146.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s147",
+    "title": "TalentPro · AI Recruiting SaaS Dashboard",
+    "url": "https://www.behance.net/gallery/233212687/AI-Recruiting-SaaS-Dashboard-UI-UX-Case-Study",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "招聘向 AI SaaS：一屏看漏斗、面试状态与录用比；流程含调研→线框→UI，适合对照「垂直场景 AI 仪表盘」怎么包装案例",
+    "tags": [
+      "招聘SaaS",
+      "仪表盘",
+      "垂直场景"
+    ],
+    "added": "2026-10-20",
+    "source_note": "2026-10-20-每日作品集收集.md",
+    "cover": "covers/s147.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s148",
+    "title": "疯狂许师傅 · 一份给自己的个人网站（站酷）",
+    "url": "https://www.zcool.com.cn/work/ZNzM3ODY4NjQ=.html",
+    "platform": "站酷",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "个人站 1.0→2.0 复盘：砍掉炫技改成作品展示、交互降噪与三端适配；可与在线站 https://lei-xxx.github.io/Crazy-Master-Xu/ 对照看「作品集壳子」怎么迭代",
+    "tags": [
+      "个人站",
+      "作品集迭代",
+      "三端适配"
+    ],
+    "added": "2026-10-20",
+    "source_note": "2026-10-20-每日作品集收集.md",
+    "cover": "covers/s148.jpg",
+    "tab": "作品集",
+    "category": "产品设计作品集"
   }
 ]

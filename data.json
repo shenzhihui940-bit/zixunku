@@ -2873,5 +2873,425 @@
     "cover": "covers/s148.jpg",
     "tab": "作品集",
     "category": "产品设计作品集"
+  },
+  {
+    "id": "s149",
+    "title": "Gabe Campbell · Principal AI Design Engineer（aiOS 端到端）",
+    "url": "https://www.gabecampbellportfolio.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "主张「先设计 AI 产品再亲自上线」：Google/BMW 背景后一人做完 aiOS 设计系统、代码与 Agent 架构；用 iMessage 式对话代替仪表盘讲「人批准、机执行」，适合学设计工程师如何把 shipping 写进主叙事",
+    "tags": [
+      "设计工程师",
+      "Agent",
+      "端到端交付"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s149.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s150",
+    "title": "Dee Kargaev · AI Engineer & Senior Product Designer（agents / GEO）",
+    "url": "https://www.deeflect.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "一人兼设计与工程：开源 Agent 记忆层、GEO 论文与机构金融产品经历并列；适合看「设计工程师简历页」如何把 AI 系统能力写成可点开的作品清单而非工具堆",
+    "tags": [
+      "Agent",
+      "GEO",
+      "开源"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s150.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s151",
+    "title": "Christopher Chen · PatentNode 专利域 Agentic（设计+AI 工程）",
+    "url": "https://chrischendesign.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "十年专利实务转垂直 AI：两条人工审核门、引用逐字对源、评测审计裁判——高风险场景里「设计决策点而非模型判词」写得很清楚，适合抄合规/专家工作台句式",
+    "tags": [
+      "Agentic",
+      "人在环中",
+      "垂直AI"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s151.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s152",
+    "title": "岳小杰 · AIGC-UI / Agent 编排可交互演示",
+    "url": "https://xiaojieyue.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "中文站把 Token、Agent 人在环、流式状态机做成可点演示，而不是静态截图；联想/长城背景 +「不确定输出如何接住」写法，国内 AI 产品设计作品集可直接对照",
+    "tags": [
+      "AIGC-UI",
+      "Agent编排",
+      "可交互演示"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s152.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s153",
+    "title": "Ruth Odu · Senior Product Designer（Ogentic AI Browser）",
+    "url": "https://ruthodu.framer.website/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "定位「让复杂工作流围着人的意图自己组织」；选案含 Ogentic AI Browser 与法律科技，主站极简入口+简历下载，适合看 AI 工具型 PD 如何把主张写短",
+    "tags": [
+      "AI浏览器",
+      "工作流",
+      "Framer"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s153.jpg",
+    "tab": "作品集",
+    "category": "产品设计作品集"
+  },
+  {
+    "id": "s154",
+    "title": "George Geo · Product Design 2026（含 CORE AI 数字助理）",
+    "url": "https://georgegeo.framer.website/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "短案例卡并列 CORE AI 数字助理、出行充电与租赁；看「AI 探索案例」如何与传统 UX 改版同页呈现而不喧宾夺主",
+    "tags": [
+      "CORE AI",
+      "短案例",
+      "数据驱动"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s154.jpg",
+    "tab": "作品集",
+    "category": "产品设计作品集"
+  },
+  {
+    "id": "s155",
+    "title": "Anjali Shadija · AI/UX Product Designer（Foundever 客服 Copilot）",
+    "url": "https://shadijaanjali.framer.website/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "企业 GenAI Copilot：通话小结与合规引导，写清 4× 采用率、收尾时长减半等数字；适合学 B2B 客服场景如何把 AI 助手案例包装成业务结果",
+    "tags": [
+      "Copilot",
+      "企业AI",
+      "采用率"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s155.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s156",
+    "title": "Ivy Mukherjee · Founding Designer（Gradient Labs / Inscribe / Ameba）",
+    "url": "https://ivymukherjee.framer.website/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "金融支持 Agent、风控 Agent 与供应链 Agentic 自动化三线；写「用自然语言 SOP 代替流程图」和 Tech Pack AI 抽取人审，适合看 founding PD 如何写 0→1 Agent 平台",
+    "tags": [
+      "Founding Designer",
+      "金融Agent",
+      "供应链AI"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s156.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s157",
+    "title": "Ala · AI Product Designer（HykoAI Agent Builder）",
+    "url": "https://alauxui.framer.ai/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "首页用「Agent 搭建比竞品快 3×、金融转化 88.6%」开场；HykoAI 模拟用户操作的 Agent 设计，适合学 AI PD 作品集如何用一句话结果锚点抓住招聘方",
+    "tags": [
+      "Agent Builder",
+      "0→1",
+      "结果锚点"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s157.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s158",
+    "title": "Michelle Ma · AWS Kiro Agentic IDE（Spec-driven 设计主导）",
+    "url": "https://mxm.design/kiro.html",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "把「信任」写成产品问题：需求→技术设计→任务→代码的 Spec 工作流、Steering/Hooks/Powers 控制面，并报 82% Spec 采用与功率用户好评——Agent IDE 类案例教科书",
+    "tags": [
+      "Agentic IDE",
+      "Spec驱动",
+      "设计主导"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s158.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s159",
+    "title": "Mohan Venkatesh · Agentic UX Lead（Ericsson 生成式 UI）",
+    "url": "https://www.uvwx.me/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "企业级生成式 UI：人始终在指挥位、Agent 读设计系统自检、对话迭代代替一次成稿；另有「对抗评审门槛」自建产品线，适合学资深 UX 如何写 Agentic 领导力叙事",
+    "tags": [
+      "生成式UI",
+      "设计系统",
+      "信任控制"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s159.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s160",
+    "title": "Tashfeen Ahmed · Microsoft 365 Copilot / Agent Mode",
+    "url": "https://tashfeen.me/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "Word Copilot 早期设计师之一，并参与跨 Word/Excel/PPT 的 Agent Mode 探索；作品集本身做成无限画布+AI 讲解，适合看「给人机协作产品做作品集」的元叙事",
+    "tags": [
+      "Copilot",
+      "Agent Mode",
+      "人机界面"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s160.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s161",
+    "title": "Alena Nikolaeva · Seqera AI / GitHub Copilot（设计+前端）",
+    "url": "https://www.alenanik.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "工程背景回设计：Seqera 生物信息 Agent（聊天/工作区/CLI）与 GitHub Copilot 用量/许可证；强调无障碍与可进代码库交付，设计工程师+DevTools AI 方向样本",
+    "tags": [
+      "DevTools",
+      "Copilot",
+      "无障碍"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s161.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s162",
+    "title": "Dinara Malysheva · AI-driven UX / Fintech Product Designer",
+    "url": "https://malyshevaportfolio.framer.website/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "复杂金融 P2P + 个人 R&D：用 Cursor/Claude/Figma MCP 做 AI-native 工作流原型；适合看中级 PD 如何把「会用 Agent 工作流」写进作品集而不空喊工具名",
+    "tags": [
+      "Fintech",
+      "AI工作流",
+      "设计系统"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s162.jpg",
+    "tab": "作品集",
+    "category": "产品设计作品集"
+  },
+  {
+    "id": "s163",
+    "title": "Isabel Shic · Design Engineer 简历 2026（DigitalOcean AI Agent）",
+    "url": "https://isabelshic.com/isabel_shic_resume_2026.pdf",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "一页 PDF 把 DO 首个 AI-native 排障 Agent、聊天建单进 Salesforce（解决时长 +26%）写成要点；示范设计工程师简历如何同时写 Agent 产品与落地指标",
+    "tags": [
+      "简历PDF",
+      "排障Agent",
+      "DigitalOcean"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s163.jpg",
+    "tab": "简历",
+    "category": "设计工程师简历"
+  },
+  {
+    "id": "s164",
+    "title": "优设：UI设计师的2026作品集升级指南",
+    "url": "https://www.uisdc.com/portfolio-fix",
+    "platform": "指南",
+    "track": "通用",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "强调少堆完整项目、深挖真实模块的问题定义/取舍/可运行结果；可用来自检作品集是不是还在「展览式」而不是「判断+证据」",
+    "tags": [
+      "作品集升级",
+      "AI时代",
+      "优设"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s164.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s165",
+    "title": "优设：什么是AI工作流？从PRD到视觉完整跑一遍",
+    "url": "https://www.uisdc.com/ai-pipeline",
+    "platform": "指南",
+    "track": "AI设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "把 AI 工作流从需求到视觉跑通并复盘；适合对照自己案例里「哪一步真用了 AI、哪一步仍是人的判断」",
+    "tags": [
+      "AI工作流",
+      "PRD",
+      "优设"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s165.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s166",
+    "title": "优设：腾讯设计师用AI创造30+创意小工具",
+    "url": "https://www.uisdc.com/ai-coding",
+    "platform": "指南",
+    "track": "设计工程师",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "大厂设计师用 AI Coding 批量做小工具的经验帖；适合想在作品集里证明「能把想法做成可点工具」时对照选题与交付粒度",
+    "tags": [
+      "AI Coding",
+      "小工具",
+      "腾讯"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s166.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s167",
+    "title": "优设：2026 AI时代设计师必须重建的6项核心能力",
+    "url": "https://www.uisdc.com/design-ai-shift",
+    "platform": "指南",
+    "track": "通用",
+    "type": "观点",
+    "verified": "已核",
+    "why": "把能力重建写成清单（而非工具清单）；可用来对照自己简历/作品集关键词是否还停在「会 Figma」",
+    "tags": [
+      "能力模型",
+      "AI时代",
+      "观点"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s167.jpg",
+    "tab": "招聘信息",
+    "category": "观点"
+  },
+  {
+    "id": "s168",
+    "title": "优设：Codex+Figma 做出可交互作品集",
+    "url": "https://www.uisdc.com/design-to-live",
+    "platform": "指南",
+    "track": "设计工程师",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "设计稿转可运行页、沉淀 Token/组件/Skill 再上线；适合需要「作品集本身可交互」时跟步骤做一版壳子",
+    "tags": [
+      "Codex",
+      "可交互作品集",
+      "Figma"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s168.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s169",
+    "title": "优设：大厂设计师教你打造落地级 AI Agent",
+    "url": "https://www.uisdc.com/agent-6",
+    "platform": "指南",
+    "track": "AI设计",
+    "type": "观点",
+    "verified": "已核",
+    "why": "强调 Agent 要懂业务与用户：结构化输入、异常分支、验收标准与真实价值；写 Agent 案例前可先对照这篇文章的「落地」标准",
+    "tags": [
+      "AI Agent",
+      "落地",
+      "大厂经验"
+    ],
+    "added": "2026-10-21",
+    "source_note": "2026-10-21-每日作品集收集.md",
+    "cover": "covers/s169.jpg",
+    "tab": "招聘信息",
+    "category": "观点"
   }
 ]

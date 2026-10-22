@@ -3753,5 +3753,26 @@
     "cover": "covers/s191.jpg",
     "tab": "作品集",
     "category": "作品集指南"
+  },
+  {
+    "id": "s192",
+    "title": "Sandip Dhameliya · Finewise AI Financial Copilot（Behance）",
+    "url": "https://www.behance.net/gallery/195575631/Finewise-Your-AI-Powered-Financial-Copilot",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "迪拜向 AI 理财副驾 SaaS 仪表盘案例：把 Copilot 做成可浏览的金融工作台界面，适合对照 fintech Agent 如何用仪表盘叙事而不是纯海报视觉",
+    "tags": [
+      "Behance",
+      "Fintech",
+      "AI Copilot",
+      "SaaS"
+    ],
+    "added": "2026-10-22",
+    "source_note": "2026-10-22-每日作品集收集.md",
+    "cover": "covers/s192.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
   }
 ]

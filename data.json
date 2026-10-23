@@ -3774,5 +3774,530 @@
     "cover": "covers/s192.jpg",
     "tab": "作品集",
     "category": "AI设计作品集"
+  },
+  {
+    "id": "s193",
+    "title": "Joel Bystedt · Founding Design Engineer 简历 PDF（Ivy Tendril）",
+    "url": "https://www.joelbystedt.com/resume.pdf",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "一页 PDF 写清从 UX 设计师→前端→全栈→Agent 框架创始设计工程师的转型轴；适合对照「设计转工程/AI」简历怎么用一条时间线证明能力迁移，而不是堆技能清单",
+    "tags": [
+      "简历PDF",
+      "设计工程师",
+      "Agent"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s193.jpg",
+    "tab": "简历",
+    "category": "设计工程师简历"
+  },
+  {
+    "id": "s194",
+    "title": "Rajveer Singh Rathore · Design Engineer 简历页（MyCity / Rung）",
+    "url": "https://rajveer.me/resume",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "简历里把 AI 写成可核对的交付：MyCity 托育 AI 证件核验、对话式简历工具「不替用户编造经历」，技能区单列 Guardrails/Evals/人在环；与已入库作品集 s062 互补，可直接抄 AI 产品能力分组写法",
+    "tags": [
+      "简历",
+      "人在环",
+      "Evals"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s194.jpg",
+    "tab": "简历",
+    "category": "设计工程师简历"
+  },
+  {
+    "id": "s195",
+    "title": "Joaquin Perez · Design Engineer 简历 PDF（Blockboard AI 广告）",
+    "url": "https://www.jperez.io/projects/JPerez_Resume.pdf",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "两页 PDF：AI 推荐受众+实时置信度提示的「决策面」、首个 Campaign 时间缩短 60%+、设计系统带 MCP 端点供编码 Agent 调用——设计系统×Agent 的简历句式非常贴近志恒的桌面设计系统案例",
+    "tags": [
+      "简历PDF",
+      "设计系统",
+      "MCP"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s195.jpg",
+    "tab": "简历",
+    "category": "设计工程师简历"
+  },
+  {
+    "id": "s196",
+    "title": "Dimitris Niavis · Principal AI Product Designer & Builder",
+    "url": "https://niavis.design/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "每个案例标「做了什么判断、上线了什么、证据强弱（实测/建模/重建基线）」；Origin MCP 6→1 步上 Claude 市场，还内置可给岗位打分、敢说「不匹配」的对话式作品集——证据分级写法值得直接借",
+    "tags": [
+      "MCP",
+      "证据链",
+      "B2B"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s196.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s197",
+    "title": "Kexin Cha · applyjobs.club 案例（可被人掌控的 AI 求职 Agent）",
+    "url": "https://www.not-kevin.design/applyjobs-club",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "单人从终端脚本做到 Web 产品，三版迭代、面试率 3%→37%；重点是把「Agent 能被看见、检查、纠偏」做成产品主线——与已入库主站 s135 互补，是人在环 Agent 案例页的完整范本",
+    "tags": [
+      "Agent",
+      "人在环",
+      "0→1"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s197.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s198",
+    "title": "Joaquin Perez · AI-Native Products, Idea to Working Software",
+    "url": "https://www.jperez.io/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "BlockVantage 让 AI 代配广告投放并「展示推荐了什么、为什么」，另有 Agent 仪表盘、MCP 界面、LLM 评测系统；首页还实时展示本周提交与 token 消耗——学设计工程师如何把 AI 工作方式本身变成作品集证据",
+    "tags": [
+      "Agent仪表盘",
+      "可解释",
+      "设计系统"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s198.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s199",
+    "title": "Joel Bystedt · Design Engineer（Ivy Tendril Orchestrator）",
+    "url": "https://www.joelbystedt.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "只放 3 个案例：任务→计划→编码 Agent 执行的对话面、侧栏两态、营销站；另有 llms.txt 与基于站内内容的 RAG 问答——看 Agent 编排产品的界面怎么讲，以及作品集如何对 AI 爬虫友好",
+    "tags": [
+      "Agent编排",
+      "RAG",
+      "llms.txt"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s199.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s200",
+    "title": "Nagisa Ikeda · AI Design Engineer 主站（FedEx AI Concierge / ReadyLead）",
+    "url": "https://www.nagisaikeda.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "首屏直接模拟一段 Agent 会话+代码 diff 当 Hero；FedEx 多模态 Concierge 写清语音/对话/结构化控件如何把意图变成可配置流程并保留人工把关——与已入库简历 PDF s178 配套看",
+    "tags": [
+      "多Agent",
+      "人在环",
+      "企业AI"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s200.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s201",
+    "title": "Serena Cao · AI Product Designer & Design Engineer（Kogna AI）",
+    "url": "https://portfolio.qingyucao.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "Kogna 案例单独设「AI UX & Trust」与「从数据到决策」章节，可折叠 9 帧速览；华人设计师中英双语站，适合抄 AI 项目管理产品如何把信任设计拆成独立段落",
+    "tags": [
+      "AI信任",
+      "设计系统",
+      "双语"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s201.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s202",
+    "title": "Sonal Jaiswal · AI Product Designer（ISN / 前 NYT）",
+    "url": "https://sonaljaiswal.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "首页每张卡统一标「0→1 / Shipped / Solo / 年份」：用 Claude Design 做的应急告警、风险分析助手、获 5 金 Stevie 的首个 AI 工具——极简卡片如何一眼传达「独立做成并上线」",
+    "tags": [
+      "0→1",
+      "Shipped",
+      "案例卡"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s202.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s203",
+    "title": "Muhammad Umer Saeed · Product Design Lead & AI-Native Builder",
+    "url": "https://umersaeed.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "整站做成终端「whoami / spec sheet」风格，并接 GitHub 贡献图；「from wireframe to merge commit」把设计到代码写成身份——看 B2B SaaS 设计负责人如何用界面风格本身证明 AI-native",
+    "tags": [
+      "终端风格",
+      "B2B SaaS",
+      "设计到代码"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s203.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s204",
+    "title": "Ayon Bhattacharya · Product Lead（AI Copilot 0→$1B）",
+    "url": "https://www.ayondesign.com/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "首页按「公司级赌注」排案例：早期员工做 AI Copilot 0→$1B+、YC 公司电路板设计提速 6×；另以 Claude Code skills/CLAUDE.md 引流——资深设计负责人如何用商业结果+AI 工作法双线定位",
+    "tags": [
+      "AI Copilot",
+      "商业结果",
+      "Claude Code"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s204.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s205",
+    "title": "黄俊 Carlin · AI 产品 × 人机交互作品集（NUS / 逐际动力）",
+    "url": "https://huangjuncarlin.me/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "中文双语站：两代 Vibe Coding 自建网站并内置个人 AI 助手「卡豆」，另有具身智能扫描仪的人工接管设计、可穿戴 AI 教练闭环——国内 AI 产品×HCI 作品集如何把「从决策到实现」写进每个项目",
+    "tags": [
+      "Vibe Coding",
+      "具身智能",
+      "中文"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s205.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s206",
+    "title": "Rafał Staromłyński · Nexus Agent Builder（Dribbble）",
+    "url": "https://dribbble.com/shots/26863544-Nexus-Agent-Builder",
+    "platform": "Dribbble",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "Agent 搭建器界面：编排智能体、监控行为与 token 用量、部署工作流放进同一控制台；适合做 Agent 后台视觉参考，对照「运行可观测性」怎么上屏",
+    "tags": [
+      "Dribbble",
+      "Agent Builder",
+      "可观测性"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s206.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s207",
+    "title": "Joey Zhao：产品设计师作品集，应该是一条证据链",
+    "url": "https://joeyzhao.cc/writing/portfolio-as-evidence",
+    "platform": "文章",
+    "track": "产品设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "中文长文：案例开头的「30 秒合同」（产品/角色/约束/改变/证据）、把 AI 失败状态当最加分的图、百分比必须交代测量边界，附 15 分钟作品集审计清单——改志恒 AI 设计系统案例前可逐条自查",
+    "tags": [
+      "证据链",
+      "失败状态",
+      "自查清单"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s207.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s208",
+    "title": "Ayush Ramawat：AI Product Design Portfolio 如何脱颖而出（Medium）",
+    "url": "https://medium.com/@ayushramawat29/ai-product-design-portfolio-how-designers-can-stand-out-and-get-hired-847a45f3e44e",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "给出 AI 案例 7 段结构：问题→AI 机会（别硬塞）→研究→取舍→信任与控制状态→边界/出错→结果；强调展示用户如何审核、编辑、撤销 AI 输出——可直接当志恒案例目录模板",
+    "tags": [
+      "案例结构",
+      "信任状态",
+      "Medium"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s208.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s209",
+    "title": "Open Doors：Don't Call Yourself \"AI-Native.\" Show It.",
+    "url": "https://blog.opendoorscareers.com/p/dont-call-yourself-ai-native-show-it",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "观点",
+    "verified": "已核",
+    "why": "招聘视角：别在 Hero 自称 AI-native，用三层证据（日常 AI 辅助→自建工具/工作流→设计 AI 产品）让结论自然成立——决定志恒简历标题用不用「AI 设计师」字样前值得读",
+    "tags": [
+      "AI-native",
+      "招聘方视角",
+      "定位"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s209.jpg",
+    "tab": "招聘信息",
+    "category": "观点"
+  },
+  {
+    "id": "s210",
+    "title": "Tori Bryan：Design Engineering a Portfolio",
+    "url": "https://www.toribryan.com/latest/portfolio-website",
+    "platform": "文章",
+    "track": "设计工程师",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "从 Framer→Astro→Next.js+Storybook 的作品集搭建复盘：什么时候画布工具不够用、组件先在 Storybook 各状态做齐再上页——想用代码自建作品集时可参考工具取舍",
+    "tags": [
+      "Next.js",
+      "Storybook",
+      "Framer"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s210.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s211",
+    "title": "找工地图：AI 求职材料怎么搭配（简历/作品集/求职信分工）",
+    "url": "https://bonjour.bio/jobs-mapping/insights/ai-685d21b0",
+    "platform": "指南",
+    "track": "通用",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "中文指南：从 JD 反推材料，简历答「值不值得下一步」、作品集答「是否真做过并能解释取舍」；给出 JD 信号→简历一句话→作品集证据映射表，以及「动作-对象-方法-产出」AI 项目写法",
+    "tags": [
+      "JD映射",
+      "简历句式",
+      "中文"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s211.jpg",
+    "tab": "简历",
+    "category": "简历指南"
+  },
+  {
+    "id": "s212",
+    "title": "TestGorilla：Hiring AI-Fluent Product Designers",
+    "url": "https://www.testgorilla.com/blog/hire-ai-fluent-product-designer/",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "招聘信号",
+    "verified": "已核",
+    "why": "招聘方测评框架：生成已廉价，招的是「从 40 个方案里选对」的品味、上下文与意图；五支柱（应用工作流/系统思维/人机协作/责任）对应面试追问——反推作品集该准备哪些故事",
+    "tags": [
+      "招聘测评",
+      "AI fluency",
+      "面试"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s212.jpg",
+    "tab": "招聘信息",
+    "category": "招聘信号"
+  },
+  {
+    "id": "s213",
+    "title": "Business Insider：Figma 设计 VP 称 AI 时代对候选人期望更高",
+    "url": "https://www.businessinsider.com/figma-design-lead-expects-more-job-candidates-ai-2026-7",
+    "platform": "文章",
+    "track": "产品设计",
+    "type": "招聘信号",
+    "verified": "已核",
+    "why": "Figma VP Noah Levin：AI 让交互原型几乎零成本，所以面试期望看到多版可交互原型而非静态稿，同时警惕「AI slop」——印证志恒「可联调 Demo」案例方向",
+    "tags": [
+      "Figma",
+      "可交互原型",
+      "岗位趋势"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s213.jpg",
+    "tab": "招聘信息",
+    "category": "岗位趋势"
+  },
+  {
+    "id": "s214",
+    "title": "人人都是产品经理：AI 把高保真原型压缩到 3 小时，30+ 设计师路在何方",
+    "url": "https://www.woshipm.com/share/6451651.html",
+    "platform": "文章",
+    "track": "产品设计",
+    "type": "观点",
+    "verified": "已核",
+    "why": "设计管理者转产研负责人的一线视角：企业从「买手艺」变成「买决策能力」，拆解设计转产品的优势与自评问题——做职业定位与面试自述时参考",
+    "tags": [
+      "设计转产品",
+      "职业定位",
+      "中文"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s214.jpg",
+    "tab": "招聘信息",
+    "category": "观点"
+  },
+  {
+    "id": "s215",
+    "title": "Olena Vynohradova · Solide AI Contract Negotiator SaaS（Behance）",
+    "url": "https://www.behance.net/gallery/253678933/Solide-AI-Contract-Negotiator-SaaS-Web-App-UIUX",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "纽约设计师 2026-08 作品：AI 谈判代理把法律文件变成 90 秒风险报告和可直接发送的还价方案，并拆解合同分类、条款级风险评分、市场对标、谈判草拟背后的 UX 策略与 AI 推理——看 B 端 AI 如何把「可解释的判断」做成界面主线",
+    "tags": [
+      "Behance",
+      "法律科技",
+      "风险评分",
+      "可解释AI"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s215.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s216",
+    "title": "Nafis Munzer Nafi · AXON AI Agent for Developers（Behance）",
+    "url": "https://www.behance.net/gallery/250053529/AXON-AI-Agent-for-Developers",
+    "platform": "Behance",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "2026-05 工程团队 AI 开发代理平台：暗色管线设计器把 PR Opened→Fetch Context→Quality Gate→LLM Deep Review 做成节点，右侧 Codebase Context 面板——文字说明很少，适合当 Agent 工作流/质量关卡的视觉参考",
+    "tags": [
+      "Behance",
+      "Agent工作流",
+      "开发者工具",
+      "深色UI"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s216.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s217",
+    "title": "沙丁鱼sardine · 个人网站导览助手-AI Agent实践（站酷）",
+    "url": "https://www.zcool.com.cn/work/ZNzQwMjkyMTI=.html",
+    "platform": "站酷",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "上海交互设计师给作品集做 Portfolio AI Agent 导览助手（知识库设计/对话体验/AI Coding），强调「不是聊天功能，而是对作品集浏览方式的重新设计」，入口提示「询问项目经验、AI 能力或作品集推荐」——可与 s196 Niavis 对话式作品集、s120 同作者作品集对照",
+    "tags": [
+      "中文",
+      "站酷",
+      "AI Agent",
+      "对话式作品集",
+      "知识库设计"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s217.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s218",
+    "title": "酒夏 · AI Agent设计_数小易智能体（站酷）",
+    "url": "https://www.zcool.com.cn/work/ZNzMwODQ2NTI=.html",
+    "platform": "站酷",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "杭州 UI 设计师的数据分析智能体界面：侧栏主页/数据分析/我的文档/最近对话，智能分析、数据可视化、生成 PPT 功能标签，加身份/场景/受众下拉与对话框——偏视觉、叙事弱，可作国内智能体工作台布局参考",
+    "tags": [
+      "中文",
+      "站酷",
+      "智能体",
+      "数据分析"
+    ],
+    "added": "2026-10-23",
+    "source_note": "2026-10-23-每日作品集收集.md",
+    "cover": "covers/s218.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
   }
 ]

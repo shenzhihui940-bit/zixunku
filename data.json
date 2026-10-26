@@ -4299,5 +4299,230 @@
     "cover": "covers/s218.jpg",
     "tab": "作品集",
     "category": "AI设计作品集"
+  },
+  {
+    "id": "s219",
+    "title": "王娟（小卷）· AI 产品经理 / Agent 产品经理",
+    "url": "https://aijuan.net/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "中文站写「片刻 AI」企业短片 SaaS 的脚本→分镜→审核→成片工作流，另有 Agent Harness 把情绪/记忆先转信号再决定「做什么」，以及 AIPM Skills（体验审查/Agent 适用性/BadCase）——产设一体如何把 Agent 边界写进作品",
+    "tags": [
+      "中文",
+      "Agent工作流",
+      "信任与失败态",
+      "B2B"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s219.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s220",
+    "title": "Hayford Kesse · Agentic Design Engineer",
+    "url": "https://hayfordkesse.com/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "定位 Agentic Design Engineer，经历覆盖 Cengage AI 教育工具与 UVeye；站内对话式导航+可下载深浅色简历——看设计工程师如何把设计系统→前端落地→AI 工具写成身份",
+    "tags": [
+      "设计工程师",
+      "Agent工作流",
+      "定位句"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s220.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s221",
+    "title": "Paul Emil Johnson · Zenskar 合同画布重构（计费自动化）",
+    "url": "https://www.paulemiljohnson.com/zenskar/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "B 端计费 founding designer：试点开不出第一张发票；从心智模型重做合同画布（双模式+实时发票预览），把「读文档」变成「签前可核对」——复杂企业系统问题→判断→结果叙事范本",
+    "tags": [
+      "B2B",
+      "案例骨架",
+      "指标叙事",
+      "互动架构"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s221.jpg",
+    "tab": "作品集",
+    "category": "产品设计作品集"
+  },
+  {
+    "id": "s222",
+    "title": "Lansah · Jenesys AI Bookkeeping（信任型自动化）",
+    "url": "https://www.uxlansah.com/jenesys-case-study",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "AI 记账 B2B：簿记员不信任黑盒碰客户账本；主线是审批/匹配置信度/追款工作流让自动化可信，并绑 80% 采用与 $1M ARR——信任设计与商业结果同叙事",
+    "tags": [
+      "信任与失败态",
+      "Agent工作流",
+      "指标叙事",
+      "B2B"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s222.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s223",
+    "title": "Senya · AI 实践（创作 / 产品 / 工作流与 Agent）",
+    "url": "https://senya.design/ai.html",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "与主站 s132 互补的 AI Lab：LaunchKit 把工具动作/文件回执/核验做成可回放执行记录；预约冲突任务强调依据→比较→确认→恢复——可追溯 Agent 工作流上屏范本",
+    "tags": [
+      "中文",
+      "Agent工作流",
+      "可运行",
+      "信任与失败态"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s223.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
+  },
+  {
+    "id": "s224",
+    "title": "Michael Ninh · TrustReady / Agentic Systems CV",
+    "url": "https://mikelninh.github.io/cv.html",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "偏工程但证据强：TrustReady 的 allow/deny/unknown 证据态与晋升门控；SafeTrace 返回 merge/separate/review——设计师写失败态/人在环可直接借证据态枚举句式",
+    "tags": [
+      "信任与失败态",
+      "Agent工作流",
+      "可运行"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s224.jpg",
+    "tab": "作品集",
+    "category": "设计工程师作品集"
+  },
+  {
+    "id": "s225",
+    "title": "百度 MEUX：AI 赋能百度优选商家经营提效的交互设计实践",
+    "url": "https://www.zcool.com.cn/article/ZMTY5MDkwOA==.html",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "中文 B 端：商家「不会用、不敢信」→统一 AI 认知；在嵌入式/对话式/伴随式外提出「托管式」，并写清为何放弃对话式——中后台 AI 交互选型与信任设计可抄结构",
+    "tags": [
+      "中文",
+      "信任与失败态",
+      "互动架构",
+      "B2B"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s225.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s226",
+    "title": "Johnny Chan：How to Show AI Work in Your UX Portfolio",
+    "url": "https://johnny-chan.com/blog/ai-ux-portfolio-case-studies",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "2026 招聘/接案双用：先问题与角色，再标明 AI 帮在哪、你否决编辑了什么，用可用性与边缘态证明「AI 加速但我负责最终体验」——改案例时可当目录检查表",
+    "tags": [
+      "作品集可信度",
+      "案例骨架",
+      "招聘方视角"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s226.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s227",
+    "title": "Akash Talole：AI UX Design Patterns — Uncertainty and Error",
+    "url": "https://akashtalole.github.io/posts/ai-ux-design-patterns-uncertainty/",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "指南文章",
+    "verified": "已核",
+    "why": "把不确定性/错误态模式化：置信披露、优雅降级、非 AI 回退、输入是否已保存——对照作品集失败态是否真画过这些状态",
+    "tags": [
+      "信任与失败态",
+      "案例骨架",
+      "互动架构"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s227.jpg",
+    "tab": "作品集",
+    "category": "作品集指南"
+  },
+  {
+    "id": "s228",
+    "title": "Ekta Sengar：Building AI Products That Actually Ship",
+    "url": "https://ektasengar.github.io/blog/building-ai-products.html",
+    "platform": "文章",
+    "track": "AI设计",
+    "type": "观点",
+    "verified": "已核",
+    "why": "demo→生产鸿沟（准确率/延迟/可靠性）与四维打分（错误容忍/HITL/数据飞轮/增量路径）——反推作品集要准备的「为何值得上线」故事",
+    "tags": [
+      "招聘方视角",
+      "信任与失败态",
+      "反模式"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s228.jpg",
+    "tab": "招聘信息",
+    "category": "观点"
+  },
+  {
+    "id": "s229",
+    "title": "Rishabh Banga · AI Product Judgment & Trusted Systems",
+    "url": "https://rishabhbanga.github.io/v2.html",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "主张难的不是模型而是周围系统：治理、工作流可读、可观测、升级路径与经济性都是产品工作——对照案例是否只讲界面、有没有讲判断与信任系统",
+    "tags": [
+      "信任与失败态",
+      "定位句",
+      "Agent工作流"
+    ],
+    "added": "2026-10-26",
+    "source_note": "2026-10-26-每日作品集收集.md",
+    "cover": "covers/s229.jpg",
+    "tab": "作品集",
+    "category": "AI设计作品集"
   }
 ]

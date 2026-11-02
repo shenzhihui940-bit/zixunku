@@ -5849,5 +5849,298 @@
     "added": "2026-10-30",
     "source_note": "2026-10-30-每日作品集收集.md",
     "cover": "covers/s290.jpg"
+  },
+  {
+    "id": "s291",
+    "title": "Maniruzzaman Jubayer · Axon：财务运营自动化的「先审后跑」控制台",
+    "url": "https://maniruzzamanjubayer.com/case-studies/axon-ai-workflow-automation-dashboard",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "每步带置信度、低于阈值暂停进 Review Queue；源 PDF 与字段并排、逐字段置信度，一屏替三个标签页；17 页 82 态——HITL 自动化后台完整骨架。",
+    "tags": [
+      "AI Agent",
+      "人机协同",
+      "B端中后台",
+      "状态设计"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s291.jpg"
+  },
+  {
+    "id": "s292",
+    "title": "Dima Popovici · Fusedash：生成式分析画布的设计地基",
+    "url": "https://dimapopovici.com/work/fusedash-generative-analytics",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "创始设计师：六个产品面、两类角色共用一套系统；生成回路「提示→候选→人改→提交」，每个 AI 产物带置信与出处——坦白写明进行中、无结果数据，叙事诚实可借鉴。",
+    "tags": [
+      "AI×设计",
+      "数据可视化",
+      "设计系统",
+      "人机协同"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s292.jpg"
+  },
+  {
+    "id": "s293",
+    "title": "Shiuli Chakravorty · DeepVista：跨 AI 工具的创始人上下文层",
+    "url": "https://shiulidesign.com/case-study/deepvista",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "唯一设计师一年四次转向：邮件 Agent→笔记→Playbook→Skills 市场+CLI 上下文页；核心结论「背后多抽取、前台少呈现」，含首页一框六态与可点原型。",
+    "tags": [
+      "AI Agent",
+      "0到1",
+      "Agent工作流",
+      "叙事结构"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s293.jpg"
+  },
+  {
+    "id": "s294",
+    "title": "Designloom · AgentOps：Agent 可观测平台瀑布追踪重设计",
+    "url": "https://www.designloom.co/work/agentops-dashboard",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "两周冲刺：瀑布 trace 按扫读顺序重排，层级靠缩进与字重、颜色只表状态；「图表回答问题而非描述系统」——高密度开发者后台的设计原则写法。",
+    "tags": [
+      "AI Agent",
+      "可观测",
+      "高密度界面",
+      "设计系统"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s294.jpg"
+  },
+  {
+    "id": "s295",
+    "title": "Shu-Min Yang · PR→PO Copilot：采购 Agent 决策透明化",
+    "url": "https://shumin.design/work/pr-po-copilot/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "LLM 只管理解意图，目录/供应商/审批路由/审计交给确定性规则 Agent；三角色一体验、4 个可复用透明度模式，用 Next.js 做成可跑原型——ERP 设计师转 AI 的样板。",
+    "tags": [
+      "AI Agent",
+      "B端中后台",
+      "可解释性",
+      "设计工程"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s295.jpg"
+  },
+  {
+    "id": "s296",
+    "title": "Senya 王惠甄 · Pisell One：AI 建议之后如何把动作交还给人",
+    "url": "https://senya.design/ai/pisell-one.html",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "中文：预约冲突从发现→依据→两方案比较→有限范围确认→执行与恢复；每个决定写「选择与理由/承担的代价」，异常也算主流程——AI 任务闭环讲法模板。",
+    "tags": [
+      "中文作品集",
+      "AI落地",
+      "人机协同",
+      "失败恢复"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s296.jpg"
+  },
+  {
+    "id": "s297",
+    "title": "Senya 王惠甄 · Pisell 全渠道商业 SaaS：同一笔业务跨七类终端",
+    "url": "https://senya.design/project/pisell-saas.html",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "verified": "已核",
+    "why": "中文：先统一订单/库存/客户对象模型再谈界面；Admin/POS/Kiosk/KDS/Web 共用规则，225 页组件+Light/Dark 变量——多端协同复杂 B 端的顶部 60 秒讲法。",
+    "tags": [
+      "中文作品集",
+      "多端协同",
+      "B端中后台",
+      "设计系统"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s297.jpg"
+  },
+  {
+    "id": "s298",
+    "title": "潘浩丹 · 产品体验设计作品集：复杂企业业务+AI 助手",
+    "url": "https://ladydan.cn/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "verified": "已核",
+    "why": "中文：三个核心项目分别证明 AI 工作流（主题在线生成打包）、企业 AI 助手入口与结果承接、设计系统治理；审批/组织/流程绘制等复杂业务另成实践区——首页结构可直接套。",
+    "tags": [
+      "中文作品集",
+      "B端中后台",
+      "AI落地",
+      "作品集结构"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s298.jpg"
+  },
+  {
+    "id": "s299",
+    "title": "Disha Sahdev · Plivo Console：五条产品线控制台统一与分阶段切换",
+    "url": "https://dishasahdev.com/work/console-overhaul",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "verified": "已核",
+    "why": "顶部先写问题/决策/角色/成果；五个孤立团队五套语言→共用结构+设计系统，允许老客户自选切换，三个月 70% 留在新版——B 端改版「怎么落地」讲得清楚。",
+    "tags": [
+      "B端中后台",
+      "设计系统",
+      "改版策略",
+      "叙事结构"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s299.jpg"
+  },
+  {
+    "id": "s300",
+    "title": "Tiff C · SumUp 餐饮平台：Kiosk/商户后台/KDS 从 MVP 到全球上线",
+    "url": "https://tiffc.design/projects/hospitalityplatform",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "verified": "已核",
+    "why": "三个割裂 MVP 统一为 B2B2C 设计系统；KDS 暗色模式推动系统级 token；上线周期 4 周→5 天、点单 4.2→2.2 分钟——多端协同+业务结果双线叙事。",
+    "tags": [
+      "多端协同",
+      "B端中后台",
+      "设计系统",
+      "业务结果"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s300.jpg"
+  },
+  {
+    "id": "s301",
+    "title": "Akash Azad · UrbanPiper POS：3.2 万餐厅的分阶段重设计",
+    "url": "https://www.akashazad.com/case-studies/urbanpiper",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "verified": "已核",
+    "why": "低技能高压用户+多国多设备+研发带宽紧：选渐进增强不搞大改，真机测 POS 终端，设计系统与改版并行被 5 个团队采用——约束驱动取舍的范例。",
+    "tags": [
+      "多端协同",
+      "B端中后台",
+      "设计系统",
+      "约束取舍"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s301.jpg"
+  },
+  {
+    "id": "s302",
+    "title": "Luis Nuñez · KFC 厨房显示系统：177 天上线 + AI 原生设计流程",
+    "url": "https://luisnunezar.com/work/yum-kfc-kds/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "verified": "已核",
+    "why": "Yum! 全球 KDS 重设计，从启动到门店上线 177 天；用 Figma MCP 把 Claude 接进实时设计稿加速探索——高频操作端+AI 工作流落地的组合叙事。",
+    "tags": [
+      "AI工作流",
+      "多端协同",
+      "设计工程",
+      "B端操作端"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s302.jpg"
+  },
+  {
+    "id": "s303",
+    "title": "MasterGo × 新东方：PM 用 Agent 出 B 端页、经 MCP 交 Cursor 出码",
+    "url": "https://mastergo.com/activityBanner/41?type=customer",
+    "platform": "文章",
+    "track": "通用",
+    "type": "指南文章",
+    "tab": "作品集",
+    "category": "作品集指南",
+    "verified": "已核",
+    "why": "中文：设计资源紧缺下 PM 用组件库约束的 Agent 生成 B 端页，前端经 MCP→Cursor 按规范出码，上线从按周到按天；「先跑通再投设计」——AI 落地 B 端流程的可引案例（厂商稿，结论需自辨）。",
+    "tags": [
+      "中文",
+      "AI落地",
+      "B端中后台",
+      "D2C"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s303.jpg"
+  },
+  {
+    "id": "s304",
+    "title": "Emily Backes · 2026 年 UX 案例研究怎么写才不坏",
+    "url": "https://emilybackes.design/post/ux-case-studies-broken",
+    "platform": "指南",
+    "track": "通用",
+    "type": "指南文章",
+    "tab": "作品集",
+    "category": "作品集指南",
+    "verified": "已核",
+    "why": "主张滚动前回答三问：真实问题是什么、难在哪（约束/冲突/技术债）、因你改变了什么——可当每个案例开头的自检表。",
+    "tags": [
+      "作品集写法",
+      "叙事结构",
+      "案例研究"
+    ],
+    "added": "2026-11-02",
+    "source_note": "2026-11-02-每日作品集收集.md",
+    "cover": "covers/s304.jpg"
   }
 ]

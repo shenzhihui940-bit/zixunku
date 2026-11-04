@@ -6142,5 +6142,145 @@
     "added": "2026-11-02",
     "source_note": "2026-11-02-每日作品集收集.md",
     "cover": "covers/s304.jpg"
+  },
+  {
+    "id": "s305",
+    "title": "Somil Jain · DevRev 无代码 Agent Builder",
+    "url": "https://somiljain.com/work/agentbuilder/casestudy",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "把 Agent 拆成知识/指令/技能/触发四块配置，结果落到交易额与 agent 数，B 端 AI 配置案例的标准讲法。",
+    "tags": [
+      "AI×设计",
+      "Agent配置",
+      "B端"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s306",
+    "title": "Som · Atlassian AI 销售看板与生成式摘要",
+    "url": "https://som.design/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "verified": "已核",
+    "why": "同一看板逐层叠加 AI（辅助→Agent 委派→生成式 UI），并展示设计师进代码合 PR，适合学「设计工程师」叙事。",
+    "tags": [
+      "AI×设计",
+      "中后台看板",
+      "设计工程师"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s307",
+    "title": "Vishnu NP · Dynamics 365 自主销售 Agent 框架",
+    "url": "https://vishnunpdesigns.com/projects/sqa",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "讲系统级框架而非单页面：自主度、可解释、监督模式被多个 agent 复用，结果有转化率对比。",
+    "tags": [
+      "AI×设计",
+      "系统设计",
+      "B端"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s308",
+    "title": "Chris Kobar · Oracle AI 优先企业配置",
+    "url": "https://chriskobar.com/tanglewood-ai",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "多 agent 分工 + 推理可见/提交前预览/决策留痕三原则，人机协同设计讲得清楚。",
+    "tags": [
+      "AI×设计",
+      "人机协同",
+      "企业SaaS"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s309",
+    "title": "Myra Orgain · Infinitus AI Copilot 运营台",
+    "url": "https://www.myraorgain.com/case-studies/infinitus",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "按专员/组长/主管分层需求，置信度、升级、审计三个关键决策，监控台类案例模板。",
+    "tags": [
+      "AI×设计",
+      "中后台",
+      "监控台"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s310",
+    "title": "Jordan Koschei · Spoke 多端协同工作流",
+    "url": "https://jordankoschei.com/work/spoke/",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "Slack/Teams/邮件/网页多端接入 + 拖拽工作流编辑器，附一份可直接借用的设计原则。",
+    "tags": [
+      "多端协同",
+      "工作流",
+      "B端"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s311",
+    "title": "Christina Wu · Glean 管理员 Agent 精选",
+    "url": "https://christinawudesign.com/work/glean-for-admins",
+    "platform": "个人站",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "verified": "已核",
+    "why": "小功能讲出大结果（周活 1.2K→15K、解锁 Dell 上线），示范如何把范围小的项目写得有分量。",
+    "tags": [
+      "AI×设计",
+      "管理后台",
+      "案例写法"
+    ],
+    "added": "2026-11-04",
+    "source_note": "2026-11-04-每日作品集收集.md",
+    "cover": ""
   }
 ]

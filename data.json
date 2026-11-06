@@ -3297,5 +3297,165 @@
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
+  },
+  {
+    "id": "s334",
+    "title": "Saeed Kolivand · 漫画连载式作品集",
+    "url": "https://iamsaeed.dev/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "why": "整站做成可滚动的 Issue 连载（封面→雨夜→书桌→起源→技能印刷线），用分镜讲清从前端工程师到 AI 工具构建者的人生线；另有平面印刷版可跳过动效。（时间依据：封面 ISSUE #1 - JUL 2026）",
+    "tags": [
+      "漫画",
+      "连环画",
+      "时间:2026-07"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s335",
+    "title": "Aimee · 剪纸世界里的人生转向",
+    "url": "https://aimees-papercraft-world.com/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "why": "手绘角色走过随季节变化的剪纸世界，用四季分面讲「被创意行业消耗后转向医疗助人」的个人叙事，而不是技能清单。（时间依据：WebGPU 展评 2026-05-28；Awwwards 2026/04；Last-Modified 2026-11-05）",
+    "tags": [
+      "可滚动故事",
+      "剪纸",
+      "时间:2026-05-28"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s336",
+    "title": "長屋晴太（はる）· 把作品集做成一局游戏",
+    "url": "https://haru2401game.github.io/portfolio/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "why": "作品与经历做成关卡/世界观地图，藏角色图鉴与奖杯、隐藏指令与通关评级，另有 PLAY/SIMPLE 双模式；用「玩的过程」认识游戏程序员志向。（时间依据：note はる日记#273 2026-10-24）",
+    "tags": [
+      "小游戏化",
+      "时间:2026-10-24"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s337",
+    "title": "Julian Neagu · 飞进三维世界的自述",
+    "url": "https://julianneagu.com/3d",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "why": "滚动驱动摄像机从暗室飞过湖面、浮空项目屏到空中联络表单，Classic/Immersive/3D 三版本并存，用旅程讲清「我如何把想法做成产品」。（时间依据：DEV 文 2026-11-05）",
+    "tags": [
+      "动效自述",
+      "3D",
+      "时间:2026-11-05"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s338",
+    "title": "Ronit Gulia · 蜘蛛宇宙里的 Dev-Verse",
+    "url": "https://portfolio-1lb1.vercel.app/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "why": "开场扫描多元宇宙、定位发光节点后进入 Earth-42，用 ORIGIN / POWERS / MISSIONS 分镜式板块讲 AI/ML 工程师身份与经历。（时间依据：GitHub 仓库 2026-05-04 创建、2026-05-27 更新）",
+    "tags": [
+      "小游戏化",
+      "互动网页",
+      "时间:2026-05-04"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s339",
+    "title": "Tamzid Ahmed · Dusk Harbor 可玩绘本港湾",
+    "url": "https://tamzid958.vercel.app/",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "why": "可键鼠/手柄游玩的侧视平台作品集，四个港湾（Origin / Stack / Shipyard / Transmission）分别讲来处、工具、已交付与联系方式；也提供文章版 fallback。（时间依据：LinkedIn/Reddit 记 2026-04-18 上线）",
+    "tags": [
+      "小游戏化",
+      "手绘世界",
+      "时间:2026-04-18"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s340",
+    "title": "Studio375 · Ten Years Away 十年漫画自述",
+    "url": "https://ten.375.studio/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "why": "横向 WebGL 漫画十章对应十年，真实同事入画，附 3D 翻页书；用「我们是谁、这些年怎么过」代替传统工作室案例墙。（时间依据：Codrops 2026-07-08）",
+    "tags": [
+      "漫画",
+      "可滚动故事",
+      "时间:2026-07-08"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s341",
+    "title": "导弹（张子矜）· 漫画阅读序的自我说明页",
+    "url": "https://www.missile.website/",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "why": "页首注明漫画阅读顺序，SELF-DESCRIPTION 分栏讲清国美漫画插画→项目策划/游戏设计/概念艺术的身份与 2025–2026 经历，形式贴合漫画作者身份。（时间依据：页内经历标注至 2026-09）",
+    "tags": [
+      "漫画",
+      "信息图式",
+      "中文",
+      "时间:2026-09"
+    ],
+    "verified": "已核",
+    "added": "2026-11-06",
+    "source_note": "2026-11-06-每日作品集收集.md",
+    "cover": ""
   }
 ]

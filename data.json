@@ -3638,5 +3638,206 @@
     "cover": "",
     "tab": "作品集",
     "category": "设计工程师作品集"
+  },
+  {
+    "id": "s351",
+    "title": "Mohammad AlOulabi · 用十二幅星图讲「一个想法怎么被我带上天」",
+    "url": "https://oulabi.dev/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "platform": "个人站",
+    "track": "通用",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "用一条星体隐喻的滚动动画代替职责清单，讲清一个技术项目经理「找重心、聚人、发射」的做事哲学，再接 10 年 50+ 项目履历。（时间依据：2026-11-08 X 发帖 x.com/mhmdou1/status/2119530089629044955 介绍新作品集；页脚 © 2026；HTTP 200 标题匹配）",
+    "tags": [
+      "可滚动故事",
+      "动效叙事",
+      "双语",
+      "时间:2026-11-08"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s352",
+    "title": "Kumar Gaurav · 吃掉技能点的吃豆人简历",
+    "url": "https://d3s-gaurav.github.io/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "用吃豆人的玩法把「技能是一点点吃进来的」讲成游戏，同时保留一键切换的正经简历，兼顾好玩与可读。（时间依据：2026-11-08 X 发帖 x.com/atheus_claps/status/2119453913539903616；页面描述「Play the career as a retro arcade maze」匹配；简历写至 Dec 2026 可实习；HTTP 200）",
+    "tags": [
+      "小游戏化",
+      "可视化简历",
+      "时间:2026-11-08"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s353",
+    "title": "Robert Lester · 一层一个雇主的像素肉鸽简历",
+    "url": "https://robertlesterweb.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "用「每段工作都是一层关卡、Boss 来自真实工作难题」把履历讲成闯关故事，比时间轴更让人记住他每段经历打过什么仗。（时间依据：2026-11-07 X 发帖 x.com/robertlester__/status/2119096368371310949；页内经历写到 October 2026、页脚 © 2026；HTTP 200）",
+    "tags": [
+      "小游戏化",
+      "像素",
+      "时间:2026-11-07"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s354",
+    "title": "Sehaj Modi · 221B 号侦探卷宗式自述",
+    "url": "https://sehajmodi.github.io/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "用侦探卷宗把嵌入式+机器学习学生「提前抓住要坏的机器」这件事讲成一桩案子，自我定位和研究方向一眼就懂。（时间依据：2026-11-09 X 发帖 x.com/SehajModi/status/2119662996674982160；页内 ICE 2025–29、第 3 学期；HTTP 200 标题「Case File 221B」）",
+    "tags": [
+      "叙事型",
+      "互动网页",
+      "时间:2026-11-09"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s355",
+    "title": "Mohamed Gado · 走进罗马博物馆看「我的碎片」",
+    "url": "https://gadoz-portfolio.vercel.app/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "把作品集当个人博物馆，用「想过的和活过的都在这里」的口吻，把项目变成人生展品，强调背后的故事而非界面截图。（时间依据：2026-11-08 X 发帖 x.com/Gadoz_72/status/2119429902734692660；页内「EST. 2026」「2023–2026」；HTTP 200）",
+    "tags": [
+      "3D互动",
+      "可滚动故事",
+      "时间:2026-11-08"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s356",
+    "title": "six · 把作品集做成一座纽约地铁站",
+    "url": "https://infinite.games/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "借纽约地铁这个生活场景讲「我是谁、在哪做事」，把作品陈列变成一次进站等车的体验。（时间依据：2026-11-10 X 发帖 x.com/internetphysics/status/2120224744867758398；页面描述「Walk the platform, pick an ad, catch the train」匹配，含 2026；HTTP 200）",
+    "tags": [
+      "小游戏化",
+      "互动网页",
+      "时间:2026-11-10"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s357",
+    "title": "Sakshat Sachdeva · 系统工程、量化和举铁缝在一起的终端主页",
+    "url": "https://sak-drago.github.io/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "不按技能分区，而是把技术、竞赛、领导力和健身写成同一股「时间管理+好胜心」，展示多面的自己。（时间依据：2026-11-07 X 发帖 x.com/Sakshatsachdeva/status/2119162349991133251 写明刚给作品集加了小人；页内版本号「v.2026.11」、经历写到 2026；HTTP 200）",
+    "tags": [
+      "多面性",
+      "叙事型",
+      "时间:2026-11-07"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s358",
+    "title": "David Theophine · 在作品集走廊里玩滑板的产品设计师",
+    "url": "https://davidtheophine.com/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
+    "platform": "个人站",
+    "track": "产品设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "把「我爱做原型和讲故事」直接做成一个可以玩的彩蛋，让访客先认识这个人再看作品。（时间依据：2026-11-09 X 发帖 x.com/davidtheophine/status/2119901085590757831；页内含 2026；HTTP 200）",
+    "tags": [
+      "小游戏化",
+      "动效叙事",
+      "时间:2026-11-09"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s359",
+    "title": "Mojeeb · 《Who Is Mojeeb?》50 个作品之后的自我介绍长文",
+    "url": "https://x.com/MojeebMotion/status/2118300994798760232",
+    "tab": "作品集",
+    "category": "AI设计作品集",
+    "platform": "X",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "动效创作者用一篇第一人称长文补上作品集缺的那一页：人格、思路和动机，是典型的个人品牌自述。（时间依据：X 发帖日期 2026-11-05（x.com/MojeebMotion/status/2118300994798760232，附 X Article《Who Is Mojeeb? The Mind Behind the Builds.》））",
+    "tags": [
+      "作者自述",
+      "个人品牌",
+      "时间:2026-11-05"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s360",
+    "title": "Cheche · 设计师文科生 38 天转行拿海外 offer 的自述",
+    "url": "https://x.com/Chechecheur/status/2120173655561015676",
+    "tab": "作品集",
+    "category": "作品集指南",
+    "platform": "X",
+    "track": "AI设计",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "把跨界那段写成自己的故事线和可复用路径，可参考设计师在简历/作品集里如何讲「转行这段」。（时间依据：X 发帖日期 2026-11-10（x.com/Chechecheur/status/2120173655561015676，附 X Article 标题））",
+    "tags": [
+      "转行自述",
+      "中文",
+      "时间:2026-11-10"
+    ],
+    "added": "2026-11-11",
+    "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
   }
 ]

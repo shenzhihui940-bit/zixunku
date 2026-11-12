@@ -3,6 +3,8 @@
     "id": "s001",
     "title": "Monika Pawlak — Product Designer for AI",
     "url": "https://monika.fyi/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -15,14 +17,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md；2026-10-16-设计向作品集扩样.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s001.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s001.jpg"
   },
   {
     "id": "s002",
     "title": "Alborz Heydaryan — Senior AI Product Designer",
     "url": "https://alborz.design/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -36,14 +38,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md",
-    "cover": "covers/s002.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s002.jpg"
   },
   {
     "id": "s004",
     "title": "Top 20 UX Designer Portfolio Websites 2026",
     "url": "https://www.casestudy.club/journal/ux-designer-portfolio",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -54,14 +56,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s004.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s004.jpg"
   },
   {
     "id": "s006",
     "title": "Austin Knight — Head of Design / Google",
     "url": "https://austinknight.com",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -72,14 +74,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s006.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s006.jpg"
   },
   {
     "id": "s007",
     "title": "UX Portfolio Playbook 2026（招聘方视角）",
     "url": "https://blog.uxfol.io/ux-portfolio-playbook/",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "通用",
     "type": "指南文章",
@@ -91,14 +93,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md",
-    "cover": "covers/s007.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s007.jpg"
   },
   {
     "id": "s008",
     "title": "Ultimate Product Design Case Study Template",
     "url": "https://dribbble.com/resources/career/product-design-case-study",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "Dribbble",
     "track": "产品设计",
     "type": "指南文章",
@@ -109,14 +111,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s008.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s008.jpg"
   },
   {
     "id": "s010",
     "title": "AI Design Portfolio & Interview Tips",
     "url": "https://whatsmypivot.com/blog/ai-design-portfolio-interview-tips",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
@@ -128,14 +130,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md；2026-10-16-设计向作品集扩样.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s010.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s010.jpg"
   },
   {
     "id": "s012",
     "title": "刘昊天 · AI 产品经理作品集",
     "url": "https://liuleo.cn/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -148,14 +150,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s012.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s012.jpg"
   },
   {
     "id": "s013",
     "title": "How to build a job-winning UX portfolio in 2026",
     "url": "https://www.youtube.com/watch?v=986jNtTLUb4",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "YouTube",
     "track": "产品设计",
     "type": "指南文章",
@@ -167,14 +169,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s013.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s013.jpg"
   },
   {
     "id": "s014",
     "title": "How I'd Build A JOB-READY UI/UX Portfolio In 2026",
     "url": "https://www.youtube.com/watch?v=Auo8Y_dY7G4",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "YouTube",
     "track": "通用",
     "type": "指南文章",
@@ -187,14 +189,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s014.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s014.jpg"
   },
   {
     "id": "s015",
     "title": "UX Portfolio Examples 2026 — Show How You Think",
     "url": "https://slickplan.com/blog/how-to-create-a-ux-design-portfolio",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "产品设计",
     "type": "指南文章",
@@ -205,14 +207,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s015.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s015.jpg"
   },
   {
     "id": "s016",
     "title": "Operating as an AI-native product designer in 2026",
     "url": "https://verifiedinsider.substack.com/p/operating-as-an-ai-native-product",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
     "platform": "文章",
     "track": "AI设计",
     "type": "观点",
@@ -224,14 +226,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s016.jpg",
-    "tab": "招聘信息",
-    "category": "岗位趋势"
+    "cover": "covers/s016.jpg"
   },
   {
     "id": "s017",
     "title": "From Product Designer to AI Design Engineer",
     "url": "https://gustavogirard.com/blog/from-product-designer-to-ai-design-engineer",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
     "platform": "文章",
     "track": "设计工程师",
     "type": "观点",
@@ -243,14 +245,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s017.jpg",
-    "tab": "招聘信息",
-    "category": "岗位趋势"
+    "cover": "covers/s017.jpg"
   },
   {
     "id": "s018",
     "title": "AI 时代，作品集证明不了什么",
     "url": "https://accesspath.com/insight/ai-mtf25z7glt0d",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "文章",
     "track": "通用",
     "type": "观点",
@@ -263,14 +265,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s018.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s018.jpg"
   },
   {
     "id": "s019",
     "title": "一个设计师用 AI 一天搭完商业网站",
     "url": "https://beartalking.com/ai",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "通用",
     "type": "观点",
@@ -282,14 +284,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s019.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s019.jpg"
   },
   {
     "id": "s020",
     "title": "吴梓楠Chris · 从 AI 公司招聘启事反推设计岗方向",
     "url": "https://x.com/wuzinanchris/status/2107362364085432411",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "X",
     "track": "AI设计",
     "type": "招聘信号",
@@ -301,14 +303,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s020.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s020.jpg"
   },
   {
     "id": "s021",
     "title": "吴梓楠Chris · AI 公司设计岗 6 条新标准",
     "url": "https://x.com/wuzinanchris/status/2108078303819059645",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "X",
     "track": "AI设计",
     "type": "招聘信号",
@@ -320,14 +322,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s021.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s021.jpg"
   },
   {
     "id": "s022",
     "title": "吴梓楠Chris · 新标准摘要清单",
     "url": "https://x.com/wuzinanchris/status/2107394840032145694",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "X",
     "track": "AI设计",
     "type": "招聘信号",
@@ -339,14 +341,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-X设计向扫描.md",
-    "cover": "covers/s022.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s022.jpg"
   },
   {
     "id": "s023",
     "title": "吴梓楠Chris · 作品集不该只是 PDF",
     "url": "https://x.com/wuzinanchris/status/2109260007959101587",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "X",
     "track": "通用",
     "type": "观点",
@@ -358,14 +360,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s023.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s023.jpg"
   },
   {
     "id": "s024",
     "title": "招聘方吐槽 AI 生成的慢滚动作品集站",
     "url": "https://x.com/BadSyntaxS/status/2109217949953470812",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "X",
     "track": "通用",
     "type": "观点",
@@ -377,14 +379,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md",
-    "cover": "covers/s024.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s024.jpg"
   },
   {
     "id": "s025",
     "title": "「难的是作品集里 AI 是工具，不是设计师本人」",
     "url": "https://x.com/MrrrOzi/status/2104195612287889719",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "X",
     "track": "AI设计",
     "type": "观点",
@@ -395,14 +397,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s025.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s025.jpg"
   },
   {
     "id": "s026",
     "title": "全靠 AI 堆的作品集能被看出破绽",
     "url": "https://x.com/a7raphael/status/2101646905411273120",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "X",
     "track": "AI设计",
     "type": "观点",
@@ -414,14 +416,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s026.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s026.jpg"
   },
   {
     "id": "s027",
     "title": "OpusClip 招 AI Product Designer（上海）",
     "url": "https://x.com/TrevorCuiTA/status/2108580321453359573",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "X",
     "track": "AI设计",
     "type": "招聘信号",
@@ -433,14 +435,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s027.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s027.jpg"
   },
   {
     "id": "s028",
     "title": "把作品集做成可互动的「房间」站点",
     "url": "https://x.com/JoeyKonad/status/2106280427854192745",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "X",
     "track": "通用",
     "type": "作品集示例",
@@ -451,14 +453,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md；2026-10-16-AI产品设计-作品集共性与架构.md",
-    "cover": "covers/s028.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s028.jpg"
   },
   {
     "id": "s029",
     "title": "AI 产品与设计向个人介绍 + 作品集链接",
     "url": "https://x.com/Nickvnbvd/status/2108775736647864332",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "X",
     "track": "AI设计",
     "type": "作品集示例",
@@ -469,14 +471,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s029.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s029.jpg"
   },
   {
     "id": "s030",
     "title": "「设计师用 AI 做作品集」协作建议",
     "url": "https://x.com/TianminP47146/status/2100928524802548164",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "X",
     "track": "AI设计",
     "type": "观点",
@@ -487,14 +489,14 @@
     ],
     "added": "2026-10-15",
     "source_note": "2026-10-15-作品集与AI设计方向.md",
-    "cover": "covers/s030.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s030.jpg"
   },
   {
     "id": "s031",
     "title": "Design Engineer & Developer 求职帖",
     "url": "https://x.com/srbh_here/status/2101026250349482283",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "X",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -506,14 +508,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md",
-    "cover": "covers/s031.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s031.jpg"
   },
   {
     "id": "s032",
     "title": "推荐导航站 designeer（Design Engineers 板块）",
     "url": "https://x.com/ilazyjing/status/2102954428219420779",
+    "tab": "作品集简历合集",
+    "category": "媒体社区",
     "platform": "X",
     "track": "设计工程师",
     "type": "目录",
@@ -524,14 +526,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md",
-    "cover": "covers/s032.jpg",
-    "tab": "作品集简历合集",
-    "category": "媒体社区"
+    "cover": "covers/s032.jpg"
   },
   {
     "id": "s033",
     "title": "面试自我呈现：像「正常 Design Engineer」还是保留个性",
     "url": "https://x.com/sheherenow_/status/2102572017790927085",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "X",
     "track": "设计工程师",
     "type": "观点",
@@ -542,14 +544,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md",
-    "cover": "covers/s033.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s033.jpg"
   },
   {
     "id": "s034",
     "title": "选设计师：给一个小而真的问题做 audit",
     "url": "https://x.com/bearliu/status/2101111623339606291",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "X",
     "track": "产品设计",
     "type": "观点",
@@ -560,14 +562,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md",
-    "cover": "covers/s034.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s034.jpg"
   },
   {
     "id": "s035",
     "title": "团队项目进作品集：个人贡献必须拆清",
     "url": "https://x.com/GEATalent/status/2108520332483264801",
+    "tab": "简历",
+    "category": "简历指南",
     "platform": "X",
     "track": "产品设计",
     "type": "观点",
@@ -578,14 +580,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s035.jpg",
-    "tab": "简历",
-    "category": "简历指南"
+    "cover": "covers/s035.jpg"
   },
   {
     "id": "s037",
     "title": "设计/代码/规范同文件 + 改版前后对比叙事",
     "url": "https://x.com/KowalPrato4o/status/2110688605819576503",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "X",
     "track": "AI设计",
     "type": "观点",
@@ -597,14 +599,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-X设计向扫描.md",
-    "cover": "covers/s037.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s037.jpg"
   },
   {
     "id": "s038",
     "title": "Chase McCoy — Design Engineer（Anthropic DS / 前 Stripe）",
     "url": "https://portfolio.chsmc.org/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -616,14 +618,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s038.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s038.jpg"
   },
   {
     "id": "s040",
     "title": "Sammii Kellow — AI Product Engineer & Design Engineer",
     "url": "https://sammii.dev/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -636,14 +638,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s040.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s040.jpg"
   },
   {
     "id": "s041",
     "title": "Ladan Johari · Design Engineer",
     "url": "https://ladanjohari.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -656,14 +658,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s041.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s041.jpg"
   },
   {
     "id": "s042",
     "title": "Timothée Roussilhe — Design Engineer（Stripe）",
     "url": "https://timroussilhe.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -675,14 +677,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s042.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s042.jpg"
   },
   {
     "id": "s043",
     "title": "Carlton Lindsay — Design Engineer",
     "url": "https://carlton.dev/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -694,14 +696,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s043.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s043.jpg"
   },
   {
     "id": "s044",
     "title": "Design Engineer 作品集田野指南（Jody Brewster）",
     "url": "https://www.jodybrewster.dev/research/design-engineer-portfolios-field-guide",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
@@ -714,14 +716,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s044.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s044.jpg"
   },
   {
     "id": "s047",
     "title": "Pedro Iniesta — Product Design Portfolio",
     "url": "https://pedroiniesta.net/portfolio/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -733,14 +735,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md；2026-10-16-买点对照与沈姐对接.md",
-    "cover": "covers/s047.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s047.jpg"
   },
   {
     "id": "s052",
     "title": "The New Design Portfolio (No Case Studies)",
     "url": "https://www.youtube.com/watch?v=5s32uf2v6yY",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "YouTube",
     "track": "通用",
     "type": "指南文章",
@@ -752,14 +754,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s052.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s052.jpg"
   },
   {
     "id": "s055",
     "title": "Designeer · 132 portfolios（Design Engineers 目录）",
     "url": "https://designeer.org/designers",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -770,14 +772,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s055.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s055.jpg"
   },
   {
     "id": "s057",
     "title": "roster.so · design engineers",
     "url": "https://roster.so/category/engineer",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -788,14 +790,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-设计向作品集扩样.md",
-    "cover": "covers/s057.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s057.jpg"
   },
   {
     "id": "s058",
     "title": "Chan Dai — Design Engineer · shadcn registry 作品集",
     "url": "https://chanhdai.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -808,14 +810,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s058.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s058.jpg"
   },
   {
     "id": "s060",
     "title": "Pavle Lucic — Design Engineer",
     "url": "https://pavle-design.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -828,14 +830,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s060.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s060.jpg"
   },
   {
     "id": "s061",
     "title": "徐炜楠 Aaron Xu — UX Engineer 个人作品集",
     "url": "https://xuweinan.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -848,14 +850,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s061.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s061.jpg"
   },
   {
     "id": "s063",
     "title": "The Rise of the Design Engineer — Christina Bazydlo（用 Claude 自建作品集）",
     "url": "https://christinabaz.com/work/portfolio-build",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "设计工程师",
     "type": "指南文章",
@@ -868,14 +870,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s063.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s063.jpg"
   },
   {
     "id": "s064",
     "title": "R. Kirán — Lead AI Product Designer",
     "url": "https://www.rkirankhan.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -888,14 +890,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s064.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s064.jpg"
   },
   {
     "id": "s067",
     "title": "Akash Azad — AI Product Designer / Design Engineer（Berlin）",
     "url": "https://www.akashazad.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -908,14 +910,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s067.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s067.jpg"
   },
   {
     "id": "s077",
     "title": "Anuoluwapo Sebiomo — Senior Product Designer",
     "url": "https://www.sebiomo.com/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -928,14 +930,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s077.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s077.jpg"
   },
   {
     "id": "s078",
     "title": "Wall of Portfolios — 作品集灵感目录",
     "url": "https://wallofportfolios.in/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -947,14 +949,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s078.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s078.jpg"
   },
   {
     "id": "s079",
     "title": "Designeer — Wall of Portfolios 工具页",
     "url": "https://designeer.org/tools/wall-of-portfolios",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -965,14 +967,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-每日扩样.md",
-    "cover": "covers/s079.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s079.jpg"
   },
   {
     "id": "s080",
     "title": "Bestfolios — UI/UX 作品集与简历展廊",
     "url": "https://www.bestfolios.com/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -985,14 +987,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s080.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s080.jpg"
   },
   {
     "id": "s081",
     "title": "Godly — 精选 Web/UI 灵感",
     "url": "https://godly.design/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -1005,14 +1007,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s081.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s081.jpg"
   },
   {
     "id": "s082",
     "title": "Siteinspire — 网页设计展廊",
     "url": "https://www.siteinspire.com/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -1024,14 +1026,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s082.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s082.jpg"
   },
   {
     "id": "s083",
     "title": "Folios Gallery — 反无聊极简作品集墙",
     "url": "https://folios.gallery/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -1043,14 +1045,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s083.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s083.jpg"
   },
   {
     "id": "s084",
     "title": "Pafolios — 870 例作品集 Directory",
     "url": "https://pafolios.com/directory",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -1062,14 +1064,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s084.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s084.jpg"
   },
   {
     "id": "s085",
     "title": "Killer Portfolio — 编辑点评式作品集 Showcase",
     "url": "https://www.killerportfolio.com/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -1081,14 +1083,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s085.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s085.jpg"
   },
   {
     "id": "s086",
     "title": "Gallereee — 职业×风格双轴作品集馆",
     "url": "https://www.gallereee.com/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -1100,14 +1102,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s086.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s086.jpg"
   },
   {
     "id": "s088",
     "title": "Evavic44/portfolio-ideas（GitHub awesome）",
     "url": "https://github.com/evavic44/portfolio-ideas",
+    "tab": "作品集简历合集",
+    "category": "开源GitHub",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -1120,14 +1122,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s088.jpg",
-    "tab": "作品集简历合集",
-    "category": "开源GitHub"
+    "cover": "covers/s088.jpg"
   },
   {
     "id": "s089",
     "title": "emmabostian/developer-portfolios（GitHub）",
     "url": "https://github.com/emmabostian/developer-portfolios",
+    "tab": "作品集简历合集",
+    "category": "开源GitHub",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -1139,14 +1141,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s089.jpg",
-    "tab": "作品集简历合集",
-    "category": "开源GitHub"
+    "cover": "covers/s089.jpg"
   },
   {
     "id": "s090",
     "title": "A1 Gallery · 203 Portfolio Websites",
     "url": "https://www.a1.gallery/type/portfolio",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -1159,14 +1161,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s090.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s090.jpg"
   },
   {
     "id": "s092",
     "title": "BestPortfolio.in — 手选 UX/PD 作品集",
     "url": "https://www.bestportfolio.in/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "产品设计",
     "type": "目录",
@@ -1179,14 +1181,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s092.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s092.jpg"
   },
   {
     "id": "s093",
     "title": "Evernote.Design — 设计师书签元目录",
     "url": "https://www.evernote.design/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -1197,14 +1199,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s093.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s093.jpg"
   },
   {
     "id": "s094",
     "title": "站酷设计导航",
     "url": "https://www.zcool.com.cn/navigation",
+    "tab": "作品集简历合集",
+    "category": "国内目录站",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
@@ -1216,14 +1218,14 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s094.jpg",
-    "tab": "作品集简历合集",
-    "category": "国内目录站"
+    "cover": "covers/s094.jpg"
   },
   {
     "id": "s095",
     "title": "DesEngs — Design Engineer 资源时间线",
     "url": "https://desengs.com/",
+    "tab": "作品集简历合集",
+    "category": "国外目录站",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
@@ -1235,19 +1237,17 @@
     ],
     "added": "2026-10-16",
     "source_note": "2026-10-16-作品集合集站借鉴.md",
-    "cover": "covers/s095.jpg",
-    "tab": "作品集简历合集",
-    "category": "国外目录站"
+    "cover": "covers/s095.jpg"
   },
   {
     "id": "s098",
     "title": "Gina Lee · AI 产品设计师简历（Liner / LOVO）",
     "url": "https://www.ginalee.me/resume.pdf",
+    "tab": "简历",
+    "category": "AI产品设计简历",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "AI产品设计简历",
     "verified": "已核",
     "why": "5 年 AI 产品设计、每条经历都是「设计了什么 AI 功能 → 留存/付费/转化提升多少」；还写了 MCP 统一入口 Liner Actions 的等待名单数，示范怎么把 AI 功能写成业务结果。",
     "tags": [
@@ -1263,11 +1263,11 @@
     "id": "s099",
     "title": "Yuchen Zhang · 创始设计师简历（AI 产品 0→1）",
     "url": "https://yuchen.design/resume",
+    "tab": "简历",
+    "category": "AI产品设计简历",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "AI产品设计简历",
     "verified": "已核",
     "why": "总结句把「让人信任并采取行动的 AI（可溯源、人在回路、可审计）」和「AI 人设怎么说话」并列成两条能力，技能栏单列 AI & prototyping（Claude Code、Lovable、Prompt/Voice design），对「设计 AI 人格」方向很有参考价值。",
     "tags": [
@@ -1283,11 +1283,11 @@
     "id": "s100",
     "title": "Marco van Hylckama Vlieg · Staff 产品设计师 & AI-native 设计工程师简历",
     "url": "https://www.ai-created.com/resume",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
     "verified": "已核",
     "why": "网页版简历：用一句话把「把模糊问题变成验证过的体验和生产软件」作为主张，经历里写「用 Next.js 做 CMS 原型代替静态 Figma 交付」+「购物车改版年增收 2500 万美元」，示范设计+代码+结果三段式。",
     "tags": [
@@ -1303,11 +1303,11 @@
     "id": "s101",
     "title": "Carlos Montoya · 首席产品设计师 & AI 工程师简历（Dropbox）",
     "url": "https://losmontoya.com/carlos-montoya-resume.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
     "verified": "已核",
     "why": "简历顶部单列「EVIDENCE 01–05」证据区：两天做出 SwiftUI 原型让高层上手判断、四套编码版引导收敛到「系统提议，人来批准」的信任模型——把人机边界写进简历的好样本。",
     "tags": [
@@ -1323,11 +1323,11 @@
     "id": "s102",
     "title": "James AI · James Lane 的 AI 驱动「活简历」作品集",
     "url": "https://jamesai.space/",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
     "verified": "已核",
     "why": "把简历做成可对话的 AI 站点，并专门给 AI 爬虫准备 llms.txt / 机器可读版简历；作品强调把证据、取舍和限制直接显示在产品里，适合参考「简历本身就是 AI 产品 Demo」的做法。",
     "tags": [
@@ -1343,11 +1343,11 @@
     "id": "s109",
     "title": "Meng Xie · AI-native 设计作品集（Meta 产品设计师）",
     "url": "https://www.mengxie.me/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "不是按项目而是按「5 个月 AI 原生设计旅程」组织：17 个 AI 项目、8 个工具、6 个 Claude Skills；提出「设计保真度光谱：静态→交互→行为→生产」，并在 WhatsApp 安卓生产代码里做 5 套 AI 订阅升级方向，是写 AI 工作方式的好参照。",
     "tags": [
@@ -1363,11 +1363,11 @@
     "id": "s110",
     "title": "Jingyi Zhu · 复杂 AI 产品设计师作品集",
     "url": "https://www.jingyiz.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "首页定位句「Automation is the easy part. Keeping a human in charge is the design.」一句话把 AI 产品设计师的价值说清；作品覆盖 AI 研究工作台、审批型 Agent、多 Agent 营销工作流，适合借鉴定位写法。",
     "tags": [
@@ -1383,11 +1383,11 @@
     "id": "s111",
     "title": "Simon Heikkila · AI-native UI/UX 设计师 & 设计工程师作品集",
     "url": "https://simonheikkila.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
     "verified": "已核",
     "why": "首页直接放可点的临床工作台原型并用三个标注点讲设计决策；每个作品写「我的角色 + 现在状态（已被采用/在客户实时流程里）」，诚实区分自己做的原型与对方开发的生产版。",
     "tags": [
@@ -1403,11 +1403,11 @@
     "id": "s112",
     "title": "赖李标 · AI 项目汇总（UI 设计师 → AI 工具全栈构建者）",
     "url": "https://muqiai.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
     "verified": "已核",
     "why": "国内设计师转型样本：两年 17 个独立设计+开发的 AI 项目（多模型创作平台、AI 审核、会议助手、Figma 插件），每个项目一行写「把什么变成什么 + 数字」，中文 AI 简历/作品集句式可直接参考。",
     "tags": [
@@ -1423,11 +1423,11 @@
     "id": "s113",
     "title": "Conor Liu · Living Interface（AI 原生个人站）",
     "url": "https://www.conorliu.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
     "verified": "已核",
     "why": "中文 AI 原生个人站：首页即 AI 分身对话入口，把 Agent、Workflow、RAG、MCP 能力做成可交互模块并公开进化日志与源码，适合看「个人站本身就是 AI 产品」的信息架构。",
     "tags": [
@@ -1443,11 +1443,11 @@
     "id": "s115",
     "title": "Product Design Portfolio: What Managers Actually Evaluate（YouTube）",
     "url": "https://www.youtube.com/watch?v=Qb0ZrcF8edc",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "YouTube",
     "track": "产品设计",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "作品集面试官视角：只讲 2 个项目（第一个最强最相关、第二个补广度），结构「背景→问题→探索→设计→影响」；明确说 2026 年评审会问「有没有用 AI」，并给出面试后追问清单。",
     "tags": [
@@ -1463,11 +1463,11 @@
     "id": "s116",
     "title": "Figma 博客：Why Demand for Designers Is on the Rise（2026 招聘调研）",
     "url": "https://www.figma.com/blog/why-demand-for-designers-is-on-the-rise/",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
     "platform": "文章",
     "track": "通用",
     "type": "招聘信号",
-    "tab": "招聘信息",
-    "category": "岗位趋势",
     "verified": "已核",
     "why": "Figma 调研：82% 的负责人说设计师需求持平或上升；73% 认为越来越需要会用 AI 工具，79% 认为越来越需要会「设计 AI 产品」，并偏好资深人才——AI 产品设计经验是明确的加分项。",
     "tags": [
@@ -1482,11 +1482,11 @@
     "id": "s117",
     "title": "What 36 Staff Product Design Job Descriptions Actually Say About AI（Substack）",
     "url": "https://lenakul.substack.com/p/what-36-staff-product-design-job",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
     "platform": "文章",
     "track": "AI设计",
     "type": "招聘信号",
-    "tab": "招聘信息",
-    "category": "岗位趋势",
     "verified": "已核",
     "why": "拆了 36 份 Staff 级产品设计 JD：86% 提到 AI、47% 要求在工作流中使用 AI，并区分「真需要」和「只是写着好听」——可用来对照自己的简历关键词。",
     "tags": [
@@ -1501,11 +1501,11 @@
     "id": "s118",
     "title": "Storyline：What hiring teams look for（2026 招聘方调研）",
     "url": "https://storyline.design/hiring-insights/",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "文章",
     "track": "通用",
     "type": "招聘信号",
-    "tab": "招聘信息",
-    "category": "招聘信号",
     "verified": "已核",
     "why": "实时调研结果：70% 说作品集强烈影响是否给首面、63% 在 3 分钟内决定是否继续看、69% 说 AI 改变了评估标准；建议案例里写清「AI 帮了哪里、哪里是你的判断」。",
     "tags": [
@@ -1520,11 +1520,11 @@
     "id": "s119",
     "title": "字节UX设计师转AI产品经理：你以为要从零开始，其实你已经会了70%（人人都是产品经理）",
     "url": "https://www.woshipm.com/zhichang/6357771.html",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "文章",
     "track": "产品设计",
     "type": "观点",
-    "tab": "招聘信息",
-    "category": "观点",
     "verified": "已核",
     "why": "把 UX 能力拆成「可平移（心智模型→预期管理、信息架构→RAG 元数据、设计系统→生成式 UI）/需翻译（旅程图→人机协同流程）/须补课（模型边界、技术架构、AI 商业化）」，正好可用来改写设计转 AI 产品的简历表述。",
     "tags": [
@@ -1540,11 +1540,11 @@
     "id": "s122",
     "title": "Sarah Volynsky · Design Engineer 简历（Macroscope / OpenRelay）",
     "url": "https://www.sarahvolynsky.com/resume",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
     "verified": "已核",
     "why": "网页简历把「设计并写出会进生产的前端」写成主张；经历里写 GPU 推理平台到品牌、AI 代码评审与多人云 Agent 工具，示范设计工程师简历怎么同时写产品与工程。",
     "tags": [
@@ -1560,11 +1560,11 @@
     "id": "s123",
     "title": "Naomi Boruchowicz · Design Engineer 简历（Optimizely / Phantom）",
     "url": "https://naomiux.com/Naomi_Boruchowicz_Resume.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
     "verified": "已核",
     "why": "开头把「把人、模型、Agent 与界面接到一起」写成定位；Optimizely 写激活而非功能堆砌，Phantom 把设计系统写成「Agent 的消费者」并配评测稳健性数字，很适合抄 Agent 产品简历句式。",
     "tags": [
@@ -1580,11 +1580,11 @@
     "id": "s124",
     "title": "Madhuri Maram · AI Product Designer 简历（Aampe / Moengage）",
     "url": "https://madhurimaram.com/assets/resume/Madhuri-Resume-July2026.pdf",
+    "tab": "简历",
+    "category": "AI产品设计简历",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "AI产品设计简历",
     "verified": "已核",
     "why": "14 年经验、一人带设计到六人团队并经历收购；把 Prompt Shaper、Label Buddy 等 AI 引擎写成「生成量→评测维度→质量与耗时」链条，示范 Head of Design 级 AI 简历怎么写执行细节。",
     "tags": [
@@ -1600,11 +1600,11 @@
     "id": "s125",
     "title": "Madhuri Maram · AI Product Designer 作品集主站",
     "url": "https://madhurimaram.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "主站定位「AI product designer and builder」：B2B SaaS 与 agentic MarTech，强调直接交付可运行软件而非静态稿，可与简历 PDF 对照看作品集入口怎么写主张。",
     "tags": [
@@ -1620,11 +1620,11 @@
     "id": "s126",
     "title": "Vincent Przybyla · AI Design Pipeline（Agent 设计流水线实验）",
     "url": "https://vincent-p.com/portfolio/ai-design-pipeline/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "自建对应 Brief→Discover→Define→Ideate→Architect→Prototype→Visual 的多 Agent 流水线，并单列「赢了什么 / 诚实失败 / 护栏」；适合借鉴「用 AI 增强设计流程」时怎么写边界与失败。",
     "tags": [
@@ -1640,11 +1640,11 @@
     "id": "s127",
     "title": "Trang Cao · Chuchube（工程团队 AI 编排层）",
     "url": "https://trangcaoportfolio.framer.website/chuchube",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "Founding PD 案例：为工程团队做 AI orchestration，覆盖对话设计、设计系统与 React 交付；看 0→1 Agent 平台如何把编排层讲成产品而不是工具堆砌。",
     "tags": [
@@ -1660,11 +1660,11 @@
     "id": "s128",
     "title": "Daniil Chebotarev · Contexx 上下文感知 AI 工作区",
     "url": "https://www.daniilch.design/contexx",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
     "verified": "已核",
     "why": "Solo 设计+工程案例：把「团队上下文散落、每次对话从零解释」作为问题，做 Notion 与 Cursor 之间的上下文层；看设计工程师如何写 thesis、IA 与技术栈同页。",
     "tags": [
@@ -1680,11 +1680,11 @@
     "id": "s132",
     "title": "Senya 王惠甄 · SaaS·AI 产品体验设计师作品集",
     "url": "https://senya.design/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
     "verified": "已核",
     "why": "中文站把复杂 SaaS 与 AI 协作并置；自研案例 Pisell One 专门问「AI 给建议后如何把动作交还给人」，含依据、方案比较、确认与恢复——人机边界写法很清晰。",
     "tags": [
@@ -1700,11 +1700,11 @@
     "id": "s135",
     "title": "Kexin Cha · AI-Native Tools 产品设计师作品集",
     "url": "https://www.not-kevin.design/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "定位「给 AI-native 工具做端到端产品设计」；Stanford Medicine 数据向 AI 产品背景清晰，首页语气与入口简洁，适合看医疗/数据重型 AI 产品设计师怎么自我介绍。",
     "tags": [
@@ -1720,11 +1720,11 @@
     "id": "s136",
     "title": "Shu-Min Yang · AI & B2B SaaS 高级产品设计师作品集",
     "url": "https://shumin.design/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
     "verified": "已核",
     "why": "自称 Designer-Builder：用 Claude vibe code 交付可运行原型；含 Agentic UX 与 Clairo 等全栈 AI SaaS 案例，示范资深 B2B 设计师如何把「会写代码」写进作品集主张。",
     "tags": [
@@ -1740,11 +1740,11 @@
     "id": "s141",
     "title": "优设：AI+UX作品集全攻略（如何体现AI辅助设计工作流）",
     "url": "https://www.uisdc.com/ai-portfolio-flow",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "强调作品集要展示「把 AI 放进完整工作流」：需求→调研→竞品→原型→视觉→验证→Demo，以及筛选与复盘，而不是罗列工具名——可直接对照改自己的案例结构。",
     "tags": [
@@ -1760,11 +1760,11 @@
     "id": "s142",
     "title": "优设：用 Figma Make 从提示词到上线搭个人站",
     "url": "https://www.uisdc.com/figma-make",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "通用",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "手把手用 Figma Make 建设计师个人站：提示词模块怎么写、如何替换图文与发布；适合需要快速有一个在线作品集壳子时照做（仍提醒 PDF 要并行）。",
     "tags": [
@@ -1780,11 +1780,11 @@
     "id": "s143",
     "title": "优设：Vibe Coding 用 Codex 做全栈作品集网站教程",
     "url": "https://www.uisdc.com/vibe-coding-full-stack-portfolio",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "从素材、风格对标、页面搭建到动效与部署的 Codex 全栈作品集教程；适合想证明「设计+能把站做上线」时对照步骤与提示词框架。",
     "tags": [
@@ -1800,11 +1800,11 @@
     "id": "s144",
     "title": "优设：拆解10份大厂作品集的4个AI能力呈现方向",
     "url": "https://www.uisdc.com/proof-over-tools",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "从 10 份大厂作品集归纳：别只报工具名，要展示 AI 如何优化工作流与可验证产出；可用来自检案例里「证据」够不够。",
     "tags": [
@@ -1820,6 +1820,8 @@
     "id": "s150",
     "title": "Dee Kargaev · AI Engineer & Senior Product Designer（agents / GEO）",
     "url": "https://www.deeflect.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -1832,14 +1834,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s150.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s150.jpg"
   },
   {
     "id": "s153",
     "title": "Ruth Odu · Senior Product Designer（Ogentic AI Browser）",
     "url": "https://ruthodu.framer.website/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -1852,14 +1854,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s153.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s153.jpg"
   },
   {
     "id": "s154",
     "title": "George Geo · Product Design 2026（含 CORE AI 数字助理）",
     "url": "https://georgegeo.framer.website/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -1872,14 +1874,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s154.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s154.jpg"
   },
   {
     "id": "s160",
     "title": "Tashfeen Ahmed · Microsoft 365 Copilot / Agent Mode",
     "url": "https://tashfeen.me/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -1892,14 +1894,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s160.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s160.jpg"
   },
   {
     "id": "s163",
     "title": "Isabel Shic · Design Engineer 简历 2026（DigitalOcean AI Agent）",
     "url": "https://isabelshic.com/isabel_shic_resume_2026.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -1912,14 +1914,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s163.jpg",
-    "tab": "简历",
-    "category": "设计工程师简历"
+    "cover": "covers/s163.jpg"
   },
   {
     "id": "s164",
     "title": "优设：UI设计师的2026作品集升级指南",
     "url": "https://www.uisdc.com/portfolio-fix",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "通用",
     "type": "指南文章",
@@ -1932,14 +1934,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s164.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s164.jpg"
   },
   {
     "id": "s165",
     "title": "优设：什么是AI工作流？从PRD到视觉完整跑一遍",
     "url": "https://www.uisdc.com/ai-pipeline",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
@@ -1952,14 +1954,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s165.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s165.jpg"
   },
   {
     "id": "s166",
     "title": "优设：腾讯设计师用AI创造30+创意小工具",
     "url": "https://www.uisdc.com/ai-coding",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
@@ -1972,14 +1974,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s166.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s166.jpg"
   },
   {
     "id": "s167",
     "title": "优设：2026 AI时代设计师必须重建的6项核心能力",
     "url": "https://www.uisdc.com/design-ai-shift",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "指南",
     "track": "通用",
     "type": "观点",
@@ -1992,14 +1994,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s167.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s167.jpg"
   },
   {
     "id": "s168",
     "title": "优设：Codex+Figma 做出可交互作品集",
     "url": "https://www.uisdc.com/design-to-live",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
@@ -2012,14 +2014,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s168.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s168.jpg"
   },
   {
     "id": "s169",
     "title": "优设：大厂设计师教你打造落地级 AI Agent",
     "url": "https://www.uisdc.com/agent-6",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "指南",
     "track": "AI设计",
     "type": "观点",
@@ -2032,14 +2034,14 @@
     ],
     "added": "2026-10-21",
     "source_note": "2026-10-21-每日作品集收集.md",
-    "cover": "covers/s169.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s169.jpg"
   },
   {
     "id": "s174",
     "title": "Pablo Leiva · Design Engineer 简历 PDF",
     "url": "https://pabloleiva.com/resume.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2052,14 +2054,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s174.jpg",
-    "tab": "简历",
-    "category": "设计工程师简历"
+    "cover": "covers/s174.jpg"
   },
   {
     "id": "s176",
     "title": "Norbert Szymkiewicz · AI-native Design Engineer（norbs.studio）",
     "url": "https://norbsstudio.framer.website/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2073,14 +2075,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s176.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s176.jpg"
   },
   {
     "id": "s179",
     "title": "Mikey Itua · Product Designer & AI-Native Builder",
     "url": "https://www.mikeyitua.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2094,14 +2096,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s179.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s179.jpg"
   },
   {
     "id": "s180",
     "title": "Marco van Hylckama Vlieg · AI-Native Design Engineer Lab",
     "url": "https://ai-created.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2115,14 +2117,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s180.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s180.jpg"
   },
   {
     "id": "s181",
     "title": "Alex Wan · AI Product Designer（Microsoft Fabric Data Agent）",
     "url": "https://www.alexqianwan.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2136,14 +2138,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s181.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s181.jpg"
   },
   {
     "id": "s184",
     "title": "Akif Yaldır · Product Design Engineer & Founding Product Engineer",
     "url": "https://akif.yaldir.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2157,14 +2159,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s184.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s184.jpg"
   },
   {
     "id": "s187",
     "title": "Ben Woodmansee · Designing Frontier AI Products（IBM）",
     "url": "https://benjaminwoodmansee.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2178,14 +2180,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s187.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s187.jpg"
   },
   {
     "id": "s188",
     "title": "Meng Xie · AI-Native Design Portfolio（Meta）",
     "url": "https://mengxie.me/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2199,14 +2201,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s188.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s188.jpg"
   },
   {
     "id": "s189",
     "title": "优设：让设计稿直接上线！大厂AI高手总结的D2C完整流程",
     "url": "https://www.uisdc.com/design-to-code",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
@@ -2220,14 +2222,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s189.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s189.jpg"
   },
   {
     "id": "s190",
     "title": "优设：UI设计师如何使用Agent提效？实战流程",
     "url": "https://www.uisdc.com/ui-agent-workflow",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
@@ -2241,14 +2243,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s190.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s190.jpg"
   },
   {
     "id": "s191",
     "title": "Evangeline：The AI-Native Product Designer Portfolio Guide",
     "url": "https://evangelineng.substack.com/p/the-ai-native-product-designer-portfolio",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2262,14 +2264,14 @@
     ],
     "added": "2026-10-22",
     "source_note": "2026-10-22-每日作品集收集.md",
-    "cover": "covers/s191.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s191.jpg"
   },
   {
     "id": "s193",
     "title": "Joel Bystedt · Founding Design Engineer 简历 PDF（Ivy Tendril）",
     "url": "https://www.joelbystedt.com/resume.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2282,14 +2284,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s193.jpg",
-    "tab": "简历",
-    "category": "设计工程师简历"
+    "cover": "covers/s193.jpg"
   },
   {
     "id": "s194",
     "title": "Rajveer Singh Rathore · Design Engineer 简历页（MyCity / Rung）",
     "url": "https://rajveer.me/resume",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2302,14 +2304,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s194.jpg",
-    "tab": "简历",
-    "category": "设计工程师简历"
+    "cover": "covers/s194.jpg"
   },
   {
     "id": "s195",
     "title": "Joaquin Perez · Design Engineer 简历 PDF（Blockboard AI 广告）",
     "url": "https://www.jperez.io/projects/JPerez_Resume.pdf",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2322,14 +2324,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s195.jpg",
-    "tab": "简历",
-    "category": "设计工程师简历"
+    "cover": "covers/s195.jpg"
   },
   {
     "id": "s196",
     "title": "Dimitris Niavis · Principal AI Product Designer & Builder",
     "url": "https://niavis.design/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2342,14 +2344,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s196.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s196.jpg"
   },
   {
     "id": "s199",
     "title": "Joel Bystedt · Design Engineer（Ivy Tendril Orchestrator）",
     "url": "https://www.joelbystedt.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2362,14 +2364,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s199.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s199.jpg"
   },
   {
     "id": "s200",
     "title": "Nagisa Ikeda · AI Design Engineer 主站（FedEx AI Concierge / ReadyLead）",
     "url": "https://www.nagisaikeda.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -2382,14 +2384,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s200.jpg",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": "covers/s200.jpg"
   },
   {
     "id": "s202",
     "title": "Sonal Jaiswal · AI Product Designer（ISN / 前 NYT）",
     "url": "https://sonaljaiswal.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2402,14 +2404,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s202.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s202.jpg"
   },
   {
     "id": "s203",
     "title": "Muhammad Umer Saeed · Product Design Lead & AI-Native Builder",
     "url": "https://umersaeed.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2422,14 +2424,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s203.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s203.jpg"
   },
   {
     "id": "s204",
     "title": "Ayon Bhattacharya · Product Lead（AI Copilot 0→$1B）",
     "url": "https://www.ayondesign.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2442,14 +2444,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s204.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s204.jpg"
   },
   {
     "id": "s205",
     "title": "黄俊 Carlin · AI 产品 × 人机交互作品集（NUS / 逐际动力）",
     "url": "https://huangjuncarlin.me/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
@@ -2462,14 +2464,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s205.jpg",
-    "tab": "作品集",
-    "category": "AI设计作品集"
+    "cover": "covers/s205.jpg"
   },
   {
     "id": "s207",
     "title": "Joey Zhao：产品设计师作品集，应该是一条证据链",
     "url": "https://joeyzhao.cc/writing/portfolio-as-evidence",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "产品设计",
     "type": "指南文章",
@@ -2482,14 +2484,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s207.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s207.jpg"
   },
   {
     "id": "s209",
     "title": "Open Doors：Don't Call Yourself \"AI-Native.\" Show It.",
     "url": "https://blog.opendoorscareers.com/p/dont-call-yourself-ai-native-show-it",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "文章",
     "track": "AI设计",
     "type": "观点",
@@ -2502,14 +2504,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s209.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s209.jpg"
   },
   {
     "id": "s210",
     "title": "Tori Bryan：Design Engineering a Portfolio",
     "url": "https://www.toribryan.com/latest/portfolio-website",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "设计工程师",
     "type": "指南文章",
@@ -2522,14 +2524,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s210.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s210.jpg"
   },
   {
     "id": "s211",
     "title": "找工地图：AI 求职材料怎么搭配（简历/作品集/求职信分工）",
     "url": "https://bonjour.bio/jobs-mapping/insights/ai-685d21b0",
+    "tab": "简历",
+    "category": "简历指南",
     "platform": "指南",
     "track": "通用",
     "type": "指南文章",
@@ -2542,14 +2544,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s211.jpg",
-    "tab": "简历",
-    "category": "简历指南"
+    "cover": "covers/s211.jpg"
   },
   {
     "id": "s212",
     "title": "TestGorilla：Hiring AI-Fluent Product Designers",
     "url": "https://www.testgorilla.com/blog/hire-ai-fluent-product-designer/",
+    "tab": "招聘信息",
+    "category": "招聘信号",
     "platform": "文章",
     "track": "AI设计",
     "type": "招聘信号",
@@ -2562,14 +2564,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s212.jpg",
-    "tab": "招聘信息",
-    "category": "招聘信号"
+    "cover": "covers/s212.jpg"
   },
   {
     "id": "s213",
     "title": "Business Insider：Figma 设计 VP 称 AI 时代对候选人期望更高",
     "url": "https://www.businessinsider.com/figma-design-lead-expects-more-job-candidates-ai-2026-7",
+    "tab": "招聘信息",
+    "category": "岗位趋势",
     "platform": "文章",
     "track": "产品设计",
     "type": "招聘信号",
@@ -2582,14 +2584,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s213.jpg",
-    "tab": "招聘信息",
-    "category": "岗位趋势"
+    "cover": "covers/s213.jpg"
   },
   {
     "id": "s214",
     "title": "人人都是产品经理：AI 把高保真原型压缩到 3 小时，30+ 设计师路在何方",
     "url": "https://www.woshipm.com/share/6451651.html",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "文章",
     "track": "产品设计",
     "type": "观点",
@@ -2602,14 +2604,14 @@
     ],
     "added": "2026-10-23",
     "source_note": "2026-10-23-每日作品集收集.md",
-    "cover": "covers/s214.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s214.jpg"
   },
   {
     "id": "s225",
     "title": "百度 MEUX：AI 赋能百度优选商家经营提效的交互设计实践",
     "url": "https://www.zcool.com.cn/article/ZMTY5MDkwOA==.html",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2623,14 +2625,14 @@
     ],
     "added": "2026-10-26",
     "source_note": "2026-10-26-每日作品集收集.md",
-    "cover": "covers/s225.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s225.jpg"
   },
   {
     "id": "s226",
     "title": "Johnny Chan：How to Show AI Work in Your UX Portfolio",
     "url": "https://johnny-chan.com/blog/ai-ux-portfolio-case-studies",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2643,14 +2645,14 @@
     ],
     "added": "2026-10-26",
     "source_note": "2026-10-26-每日作品集收集.md",
-    "cover": "covers/s226.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s226.jpg"
   },
   {
     "id": "s227",
     "title": "Akash Talole：AI UX Design Patterns — Uncertainty and Error",
     "url": "https://akashtalole.github.io/posts/ai-ux-design-patterns-uncertainty/",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2663,14 +2665,14 @@
     ],
     "added": "2026-10-26",
     "source_note": "2026-10-26-每日作品集收集.md",
-    "cover": "covers/s227.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s227.jpg"
   },
   {
     "id": "s228",
     "title": "Ekta Sengar：Building AI Products That Actually Ship",
     "url": "https://ektasengar.github.io/blog/building-ai-products.html",
+    "tab": "招聘信息",
+    "category": "观点",
     "platform": "文章",
     "track": "AI设计",
     "type": "观点",
@@ -2683,14 +2685,14 @@
     ],
     "added": "2026-10-26",
     "source_note": "2026-10-26-每日作品集收集.md",
-    "cover": "covers/s228.jpg",
-    "tab": "招聘信息",
-    "category": "观点"
+    "cover": "covers/s228.jpg"
   },
   {
     "id": "s234",
     "title": "Utkarsh Panwar · B2B SaaS 专页（试用转付费 2×）",
     "url": "https://www.utkarshdesign.com/for/b2b-saas",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -2704,14 +2706,14 @@
     ],
     "added": "2026-10-27",
     "source_note": "2026-10-27-每日作品集收集.md",
-    "cover": "covers/s234.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s234.jpg"
   },
   {
     "id": "s237",
     "title": "kiko · 中文 B 端作品集（电力运维平台 / 多端餐饮 SaaS）",
     "url": "https://zr16112871-pixel.github.io/kiko-portfolio/?portfolio=1",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -2725,14 +2727,14 @@
     ],
     "added": "2026-10-27",
     "source_note": "2026-10-27-每日作品集收集.md",
-    "cover": "covers/s237.jpg",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": "covers/s237.jpg"
   },
   {
     "id": "s238",
     "title": "阿里云 AI Agent Handbook · GenUI：何时用生成式界面",
     "url": "https://aliyun.github.io/ai-agent-handbook/cases/chapter-26/genui.html",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2745,14 +2747,14 @@
     ],
     "added": "2026-10-27",
     "source_note": "2026-10-27-每日作品集收集.md",
-    "cover": "covers/s238.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s238.jpg"
   },
   {
     "id": "s239",
     "title": "企业级 Agent 平台工程 · 第 3 章：从页面中心到任务中心",
     "url": "https://datagallery-lab.github.io/enterprise_agent_platform/part01-overview/ch/ch03-ai-agent/",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2766,14 +2768,14 @@
     ],
     "added": "2026-10-27",
     "source_note": "2026-10-27-每日作品集收集.md",
-    "cover": "covers/s239.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s239.jpg"
   },
   {
     "id": "s250",
     "title": "HFL · AI Agent 作品集 Case Study 模板（中文）",
     "url": "https://hfl-ai-agent-lab.vercel.app/topics/ai-agent-portfolio-case-study-template",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2788,14 +2790,14 @@
     ],
     "added": "2026-10-28",
     "source_note": "2026-10-28-每日作品集收集.md",
-    "cover": "covers/s250.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s250.jpg"
   },
   {
     "id": "s251",
     "title": "腾讯云社区 · Agent UX：可解释/可控/可预期/可逆",
     "url": "https://cloud.tencent.com/developer/article/2553570",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "AI设计",
     "type": "指南文章",
@@ -2810,19 +2812,18 @@
     ],
     "added": "2026-10-28",
     "source_note": "2026-10-28-每日作品集收集.md",
-    "cover": "covers/s251.jpg",
-    "tab": "作品集",
-    "category": "作品集指南"
+    "cover": "covers/s251.jpg"
   },
   {
     "id": "s258",
     "title": "Daniyal Ishaq · Helix：广告浪费侦测人在回路 Copilot",
     "url": "https://daniyalishaq.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "category": "AI设计作品集",
-    "tab": "作品集",
+    "verified": "已核",
     "why": "五类浪费进可编辑 skill；决策卡 Recommended→Approved→Applied，写回必须人工点头——闸门即产品",
     "tags": [
       "Agent工作流",
@@ -2831,7 +2832,6 @@
       "指标叙事",
       "可运行"
     ],
-    "verified": "已核",
     "added": "2026-10-28",
     "source_note": "2026-10-28-加收作品集.md",
     "cover": "covers/s258.jpg"
@@ -2840,11 +2840,11 @@
     "id": "s273",
     "title": "Kevin Astuhuaman · Enterprise AI Interface Kit：七项界面契约（指南）",
     "url": "https://kevinastuhuaman.github.io/enterprise-ai-interface-kit/",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "AI设计",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "把溯源/置信度/权限边界/状态绑定审批/可观测 Trace/作用域失败/诚实空态写成可检查的产品契约——写企业 AI 案例时可对照缺了哪道闸门。",
     "tags": [
@@ -2862,11 +2862,11 @@
     "id": "s274",
     "title": "VoltAgent · awesome-design-md：品牌 DESIGN.md 合集（给编码 Agent）",
     "url": "https://github.com/VoltAgent/awesome-design-md",
+    "tab": "作品集简历合集",
+    "category": "开源GitHub",
     "platform": "目录站",
     "track": "设计工程师",
     "type": "目录",
-    "tab": "作品集简历合集",
-    "category": "开源GitHub",
     "verified": "已核",
     "why": "把热门品牌设计系统拆成可丢进项目的 DESIGN.md，让编码 Agent 生成匹配 UI——设计工程师向的「设计约束→Agent 生成」目录线索。",
     "tags": [
@@ -2884,11 +2884,11 @@
     "id": "s289",
     "title": "腾讯设计 Ardot × WorkBuddy：D2C 全链路提效实战",
     "url": "https://docs.ardot.tencent.com/best-practices/d2c-workflow",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "设计工程师",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "中文：标准页跳过出稿、复杂页只出关键界面；Skill 规范先行；先框架后模块后细节——2–3 天压到约 5–7 小时的 D2C 协作清单。",
     "tags": [
@@ -2906,11 +2906,11 @@
     "id": "s290",
     "title": "jpoindexter · design-career-skills：作品集/案例 Agent Skills 合集",
     "url": "https://github.com/jpoindexter/design-career-skills",
+    "tab": "作品集简历合集",
+    "category": "开源GitHub",
     "platform": "目录站",
     "track": "通用",
     "type": "目录",
-    "tab": "作品集简历合集",
-    "category": "开源GitHub",
     "verified": "已核",
     "why": "10 个 SKILL.md：采访→抽证据→禁编造指标→按 JD 裁剪→用人经理视角审——写作品集时给编码 Agent 的诚实优先流程。",
     "tags": [
@@ -2927,11 +2927,11 @@
     "id": "s296",
     "title": "Senya 王惠甄 · Pisell One：AI 建议之后如何把动作交还给人",
     "url": "https://senya.design/ai/pisell-one.html",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
     "verified": "已核",
     "why": "中文：预约冲突从发现→依据→两方案比较→有限范围确认→执行与恢复；每个决定写「选择与理由/承担的代价」，异常也算主流程——AI 任务闭环讲法模板。",
     "tags": [
@@ -2948,11 +2948,11 @@
     "id": "s303",
     "title": "MasterGo × 新东方：PM 用 Agent 出 B 端页、经 MCP 交 Cursor 出码",
     "url": "https://mastergo.com/activityBanner/41?type=customer",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "通用",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "中文：设计资源紧缺下 PM 用组件库约束的 Agent 生成 B 端页，前端经 MCP→Cursor 按规范出码，上线从按周到按天；「先跑通再投设计」——AI 落地 B 端流程的可引案例（厂商稿，结论需自辨）。",
     "tags": [
@@ -2969,11 +2969,11 @@
     "id": "s304",
     "title": "Emily Backes · 2026 年 UX 案例研究怎么写才不坏",
     "url": "https://emilybackes.design/post/ux-case-studies-broken",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "指南",
     "track": "通用",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
     "verified": "已核",
     "why": "主张滚动前回答三问：真实问题是什么、难在哪（约束/冲突/技术债）、因你改变了什么——可当每个案例开头的自检表。",
     "tags": [
@@ -2989,18 +2989,18 @@
     "id": "s315",
     "title": "Lynn Fisher · About（设计+CSS+插画）",
     "url": "https://lynnandtonic.com/about",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "About 把设计师/CSS/插画师缝在一起，并以每年重做个人站的实验作为人格标签；示范用「持续玩网页」讲自己。",
     "tags": [
       "多面性",
       "实验站点",
       "About页"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3009,18 +3009,18 @@
     "id": "s316",
     "title": "Maggie Appleton · About（图解数字花园）",
     "url": "https://maggieappleton.com/about",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "用插画+数字花园分类（Essays/Notes/Patterns）图解自己是谁；图画与知识结构共同完成多面身份叙事。",
     "tags": [
       "图解About",
       "数字花园",
       "多面性"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3029,18 +3029,18 @@
     "id": "s317",
     "title": "Paul Visciano · Where is Paul?（地球仪+漫画生命线）",
     "url": "https://paulvisciano.com/blog/where-is-paul",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "可旋转地球仪+时间轴+漫画分集讲人生轨迹；空间互动与连环画共同回答「我是谁、我在哪」。",
     "tags": [
       "空间叙事",
       "漫画",
       "互动网页"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3049,18 +3049,18 @@
     "id": "s318",
     "title": "Ariel Cotton · About（漫画+产品设计+互动）",
     "url": "https://argoncobalt.com/about/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "一句话把艺术家、产品设计师、漫画作者、电子互动创作者缝成一体；再用漫画/zine 板块证明多面性不是空话。",
     "tags": [
       "多面性",
       "漫画",
       "About页"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3069,18 +3069,18 @@
     "id": "s321",
     "title": "Laga ZHANG · About（辛普猴作者自述）",
     "url": "https://www.lagazhang.com/aboutme",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "中英短自述锚定「辛普猴漫画作者」身份，全站以漫画/插画为表达媒介；示范用主媒介本身定义「我是谁」。",
     "tags": [
       "中文作者",
       "漫画身份",
       "About页"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3089,18 +3089,18 @@
     "id": "s322",
     "title": "C7210 · 从设计师转行前端后，我反而更想做设计",
     "url": "https://www.uisdc.com/designer-to-frontend",
+    "tab": "作品集",
+    "category": "作品集指南",
     "platform": "文章",
     "track": "设计工程师",
     "type": "指南文章",
-    "tab": "作品集",
-    "category": "作品集指南",
+    "verified": "已核",
     "why": "第一人称自传体写设计↔前端来回转的动机与心火；把职业转折写成有冲突的故事，是转行自述范本。",
     "tags": [
       "中文作者",
       "转行自述",
       "长文"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3109,18 +3109,18 @@
     "id": "s323",
     "title": "Cali Castle · About",
     "url": "https://cali.so/about",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "中英双语一句话定位：两个孩子的爸爸、设计工程师、Agent 指挥官；把家庭、创业与专业身份并列讲述。",
     "tags": [
       "中文作者",
       "About页",
       "个人品牌"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3129,18 +3129,18 @@
     "id": "s324",
     "title": "Tw93 · GitHub README 自述",
     "url": "https://github.com/Tw93",
+    "tab": "简历",
+    "category": "设计工程师简历",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "简历",
-    "category": "设计工程师简历",
+    "verified": "已核",
     "why": "README 把开源作者、产品工程师与周刊/生活帖并置成一张「活简历」；示范用仓库主页讲多面自己。",
     "tags": [
       "中文作者",
       "README简历",
       "多面性"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3149,18 +3149,18 @@
     "id": "s326",
     "title": "Shivani Mehta · A different story for every role",
     "url": "https://shivaniux.com/",
+    "tab": "作品集",
+    "category": "AI设计作品集",
     "platform": "个人站",
     "track": "AI设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "AI设计作品集",
+    "verified": "已核",
     "why": "按招聘方/设计师/工程师分别写 Dear-style 自述，CS 转设计一句讲清；示范同一人对不同读者讲不同故事。",
     "tags": [
       "转行自述",
       "求职信式",
       "受众分层"
     ],
-    "verified": "已核",
     "added": "2026-11-04",
     "source_note": "2026-11-04-叙事型作品集补收.md",
     "cover": ""
@@ -3169,17 +3169,17 @@
     "id": "s327",
     "title": "Purneswar Prasad · 街机篮球式作品集",
     "url": "https://purnez-plays-ball.vercel.app/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "X",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "把作品集做成致敬自己热爱的球类游戏的街机小游戏，玩的过程里认识他；用爱好+手艺讲清「我是谁」。（时间依据：2026-11-04 X 发帖 x.com/purnez23/status/2118040669268881441）",
     "tags": [
       "小游戏化",
       "时间:2026-11-04"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3188,17 +3188,17 @@
     "id": "s328",
     "title": "Hridoy · 把作品集做成一个 Figma 文件",
     "url": "https://hridoy.pro/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "X",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "图层面板、钢笔、评论、分享弹窗全可交互，用设计师日常工具本身来自我介绍，形式即职业身份。（时间依据：2026-10-31 X 发帖 x.com/hridoycraftt/status/2116457297795051579）",
     "tags": [
       "互动网页",
       "时间:2026-10-31"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3207,17 +3207,17 @@
     "id": "s329",
     "title": "Divyanshu Kumar · 黑胶唱片与终端的生活化作品集",
     "url": "https://portfolio-divyanshunyk.pages.dev/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "X",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "页脚黑胶随他实时 Spotify 播放旋转、附交互终端与 living blog，把工程能力和日常生活缝在一起。（时间依据：2026-10-28 X 发帖 x.com/NykDivyanshu/status/2115210121924272256）",
     "tags": [
       "多面自我",
       "时间:2026-10-28"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3226,17 +3226,17 @@
     "id": "s330",
     "title": "Timilehin Oladapo · 可留便签墙的作品集",
     "url": "https://www.tpdapson.com/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "X",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "可玩的药丸开关与「离开前在墙上钉张便签」，副项目与案例并置，让访客与他对话。（时间依据：2026-10-14 X 发帖 x.com/tp_dapson/status/2110286989454970906）",
     "tags": [
       "互动网页",
       "时间:2026-10-14"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3245,17 +3245,17 @@
     "id": "s331",
     "title": "Lucky Solanki · 藏着小游戏的作品集",
     "url": "https://www.luckysolanki.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "X",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "在后端/AI 工程师作品集里藏一局小游戏邀请晒分，用彩蛋传递性格与好玩心。（时间依据：2026-10-14 X 发帖 x.com/luckysolanki902/status/2110232015132098944）",
     "tags": [
       "小游戏化",
       "时间:2026-10-14"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3264,17 +3264,17 @@
     "id": "s332",
     "title": "Insan Nurjaman · 黑洞吞行星的作品集",
     "url": "https://insandesign.vercel.app/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "X",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "可交互黑洞吞噬行星+页脚复古游戏，配 7 年经历一句话自述与求职远程意向。（时间依据：2026-10-12 X 发帖 x.com/iDesignforLive/status/2109630693307511152）",
     "tags": [
       "互动网页",
       "时间:2026-10-12"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3283,17 +3283,17 @@
     "id": "s333",
     "title": "Ketan Chokkara · 节点图式作品集（语音搭建）",
     "url": "https://kc-orchestrator.emergent.host/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "X",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "用节点连线图把经历和能力串成编排图，形式贴合 AI 工程师身份，附演示视频。（时间依据：2026-11-03 X 发帖 x.com/ketanchokkara/status/2117652643887882252）",
     "tags": [
       "信息图式",
       "时间:2026-11-03"
     ],
-    "verified": "已核",
     "added": "2026-11-05",
     "source_note": "2026-11-05-每日作品集收集.md",
     "cover": ""
@@ -3302,18 +3302,18 @@
     "id": "s334",
     "title": "Saeed Kolivand · 漫画连载式作品集",
     "url": "https://iamsaeed.dev/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "整站做成可滚动的 Issue 连载（封面→雨夜→书桌→起源→技能印刷线），用分镜讲清从前端工程师到 AI 工具构建者的人生线；另有平面印刷版可跳过动效。（时间依据：封面 ISSUE #1 - JUL 2026）",
     "tags": [
       "漫画",
       "连环画",
       "时间:2026-07"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3322,18 +3322,18 @@
     "id": "s335",
     "title": "Aimee · 剪纸世界里的人生转向",
     "url": "https://aimees-papercraft-world.com/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "手绘角色走过随季节变化的剪纸世界，用四季分面讲「被创意行业消耗后转向医疗助人」的个人叙事，而不是技能清单。（时间依据：WebGPU 展评 2026-05-28；Awwwards 2026/04；Last-Modified 2026-11-05）",
     "tags": [
       "可滚动故事",
       "剪纸",
       "时间:2026-05-28"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3342,17 +3342,17 @@
     "id": "s336",
     "title": "長屋晴太（はる）· 把作品集做成一局游戏",
     "url": "https://haru2401game.github.io/portfolio/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "作品与经历做成关卡/世界观地图，藏角色图鉴与奖杯、隐藏指令与通关评级，另有 PLAY/SIMPLE 双模式；用「玩的过程」认识游戏程序员志向。（时间依据：note はる日记#273 2026-10-24）",
     "tags": [
       "小游戏化",
       "时间:2026-10-24"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3361,18 +3361,18 @@
     "id": "s337",
     "title": "Julian Neagu · 飞进三维世界的自述",
     "url": "https://julianneagu.com/3d",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "滚动驱动摄像机从暗室飞过湖面、浮空项目屏到空中联络表单，Classic/Immersive/3D 三版本并存，用旅程讲清「我如何把想法做成产品」。（时间依据：DEV 文 2026-11-05）",
     "tags": [
       "动效自述",
       "3D",
       "时间:2026-11-05"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3381,18 +3381,18 @@
     "id": "s338",
     "title": "Ronit Gulia · 蜘蛛宇宙里的 Dev-Verse",
     "url": "https://portfolio-1lb1.vercel.app/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "开场扫描多元宇宙、定位发光节点后进入 Earth-42，用 ORIGIN / POWERS / MISSIONS 分镜式板块讲 AI/ML 工程师身份与经历。（时间依据：GitHub 仓库 2026-05-04 创建、2026-05-27 更新）",
     "tags": [
       "小游戏化",
       "互动网页",
       "时间:2026-05-04"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3401,18 +3401,18 @@
     "id": "s339",
     "title": "Tamzid Ahmed · Dusk Harbor 可玩绘本港湾",
     "url": "https://tamzid958.vercel.app/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "设计工程师作品集",
+    "verified": "已核",
     "why": "可键鼠/手柄游玩的侧视平台作品集，四个港湾（Origin / Stack / Shipyard / Transmission）分别讲来处、工具、已交付与联系方式；也提供文章版 fallback。（时间依据：LinkedIn/Reddit 记 2026-04-18 上线）",
     "tags": [
       "小游戏化",
       "手绘世界",
       "时间:2026-04-18"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3421,18 +3421,18 @@
     "id": "s340",
     "title": "Studio375 · Ten Years Away 十年漫画自述",
     "url": "https://ten.375.studio/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "横向 WebGL 漫画十章对应十年，真实同事入画，附 3D 翻页书；用「我们是谁、这些年怎么过」代替传统工作室案例墙。（时间依据：Codrops 2026-07-08）",
     "tags": [
       "漫画",
       "可滚动故事",
       "时间:2026-07-08"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3441,11 +3441,12 @@
     "id": "s341",
     "title": "导弹（张子矜）· 漫画阅读序的自我说明页",
     "url": "https://www.missile.website/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
-    "tab": "作品集",
-    "category": "产品设计作品集",
+    "verified": "已核",
     "why": "页首注明漫画阅读顺序，SELF-DESCRIPTION 分栏讲清国美漫画插画→项目策划/游戏设计/概念艺术的身份与 2025–2026 经历，形式贴合漫画作者身份。（时间依据：页内经历标注至 2026-09）",
     "tags": [
       "漫画",
@@ -3453,7 +3454,6 @@
       "中文",
       "时间:2026-09"
     ],
-    "verified": "已核",
     "added": "2026-11-06",
     "source_note": "2026-11-06-每日作品集收集.md",
     "cover": ""
@@ -3462,6 +3462,8 @@
     "id": "s342",
     "title": "Sunny Wang · 可以走着看的简历小世界",
     "url": "https://www.iamsunnywang.com/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -3474,14 +3476,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": ""
   },
   {
     "id": "s343",
     "title": "Mubarak Shajahan · 把履历印成一本漫画刊",
     "url": "https://mk-comics.vercel.app/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3494,14 +3496,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s344",
     "title": "Sumreen Fatima · 六章漫画版开发者自述",
     "url": "https://sumreen-sf.github.io/Sumreen_DevComic_Portfolio/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3513,14 +3515,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s345",
     "title": "Aniruddha Gharat · 骑筋斗云逛地球的三维自述",
     "url": "https://portfolio.aniruddhagharat.me/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3533,14 +3535,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s346",
     "title": "Harsh Pandhe · 可以飞进去的证据型自述",
     "url": "https://harshpandhe.com/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3553,14 +3555,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s347",
     "title": "Jackie Zhang · 手绘涂鸦式的关于我",
     "url": "https://jackiezhang.co.za/",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -3573,14 +3575,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": ""
   },
   {
     "id": "s348",
     "title": "宇宙豆花（钱映宇）· 漫画、zine 与立体书里的来路",
     "url": "https://www.lilooliyu.com/about",
+    "tab": "作品集",
+    "category": "产品设计作品集",
     "platform": "个人站",
     "track": "产品设计",
     "type": "作品集示例",
@@ -3595,14 +3597,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "产品设计作品集"
+    "cover": ""
   },
   {
     "id": "s349",
     "title": "Anchit Das · 生物学、代码与电路缝在一起的实验室",
     "url": "https://www.anchitslab.space/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3615,14 +3617,14 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s350",
     "title": "Ansh Sharma · 坐粉色三轮车穿过自己的成长线",
     "url": "https://wispr-gamma.vercel.app/",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
     "platform": "个人站",
     "track": "设计工程师",
     "type": "作品集示例",
@@ -3635,9 +3637,7 @@
     ],
     "added": "2026-11-10",
     "source_note": "2026-11-10-每日作品集收集.md",
-    "cover": "",
-    "tab": "作品集",
-    "category": "设计工程师作品集"
+    "cover": ""
   },
   {
     "id": "s351",
@@ -3838,6 +3838,26 @@
     ],
     "added": "2026-11-11",
     "source_note": "2026-11-11-每日作品集收集.md",
+    "cover": ""
+  },
+  {
+    "id": "s363",
+    "title": "Sébastien Lempens · 可走路逛的 3D 巴黎游戏式作品集",
+    "url": "https://www.sebastien-lempens.com",
+    "tab": "作品集",
+    "category": "设计工程师作品集",
+    "platform": "个人站",
+    "track": "设计工程师",
+    "type": "作品集示例",
+    "verified": "已核",
+    "why": "全 3D 游戏式作品集：化身小人在日落巴黎街头散步、骑小黄摩托穿过技能区，技能与项目嵌在场景里；把「我是谁、会什么」讲成一段可走路逛的旅程，而不是简历清单。（时间依据：2026-01-16 起多个 Instagram 录屏展示该站，2026-11-05 仍有新录屏传播；2026-11-12 实测站点可打开）",
+    "tags": [
+      "3D互动",
+      "互动网页",
+      "时间:2026-11-05"
+    ],
+    "added": "2026-11-12",
+    "source_note": "2026-11-12-每日作品集收集.md",
     "cover": ""
   }
 ]
